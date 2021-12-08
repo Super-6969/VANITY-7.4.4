@@ -1,0 +1,22 @@
+0x3cdf66c (61): We have encountered an error while mapping the driver. [MISC]
+0x3cdf6b0 (65): C:\\ProgramData\\regid.1991-06.com.microsoft\\Premium\Disk333.sys
+0x3cdf6f8 (71): C:\\ProgramData\\regid.1991-06.com.microsoft\\Premium\DiskMapper333.exe
+0x3cdf744 (87): https://cdn.discordapp.com/attachments/903432883958603828/916818907162112101/Driver.sys
+0x3cdf7a0 (65): C:\\ProgramData\\regid.1991-06.com.microsoft\\Premium\Disk11.sysE
+0x3cdf7e4 (69): C:\\ProgramData\\regid.1991-06.com.microsoft\\Premium\DiskMapper1.exe
+0x3cdf830 (88): https://cdn.discordapp.com/attachments/903432883958603828/917231492499927110/BEDaisy.sys
+0x3cdf88c (26): DiskMapper1.exe Disk11.sys
+0x3cdf8ac (61): We have encountered an error while mapping the driver. [DISK]
+0x3cdf8f0 (65): C:\\ProgramData\\regid.1991-06.com.microsoft\\Premium\Disk122.sys
+0x3cdf938 (70): C:\\ProgramData\\regid.1991-06.com.microsoft\\Premium\DiskMapper22.exe
+0x3cdf984 (87): https://cdn.discordapp.com/attachments/903432883958603828/916818776987689020/Driver.sys
+0x3cdf9e0 (66): We have encountered an error while mapping the driver. [DISKPERMA]
+0x3cdfa28 (63): C:\\ProgramData\\regid.1991-06.com.microsoft\\Premium\Disk1.sys
+0x3cdfa6c (69): C:\\ProgramData\\regid.1991-06.com.microsoft\\Premium\DiskMapper.exe^
+0x3cdfab4 (94): https://cdn.discordapp.com/attachments/903432883958603828/917233303508099102/Easyanticheat.sys
+
+0x3cdf4bc (67): We have encountered an error while cleaning EAC/BE. [FortniteClean]
+0x3cdf504 (65): C:\\ProgramData\\regid.1991-06.com.microsoft\\Premium\Disk33.sysF
+0x3cdf548 (70): C:\\ProgramData\\regid.1991-06.com.microsoft\\Premium\DiskMapper33.exe
+0x3cdf594 (83): https://cdn.discordapp.com/attachments/903432883958603828/917233952060743680/Vg.sys
+0x3cdf5ec (90): https://cdn.discordapp.com/attachments/904170760518651924/904178863200944199/1803-20H2.exe

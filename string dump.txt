@@ -1,0 +1,2191 @@
+0x38e30d4 (36): Gregorian Calendar
+0x38e3108 (20): MM/dd/yyyy
+0x38e312c (20): yyyy-MM-dd
+0x38e3150 (36): dddd, dd MMMM yyyy
+0x38e3c6c (130): ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=
+0x38e4418 (24): get_HasValue
+0x38e4460 (34): GetValueOrDefault
+0x38e4e80 (52): .NETFramework,Version=v4.8
+0x38e4ec4 (54): ExecutionContext_UndoFailed
+0x38e4f08 (120): The C++ module failed to load during vtable initialization.
+
+0x38e4f90 (126): The C++ module failed to load during appdomain initialization.
+
+0x38e523c (26): ucrtbased.dll
+0x38e5264 (30): api-ms-win-crt-
+0x38e5580 (146): The C++ module failed to load during registration for the unload events.
+
+0x38e57b0 (26): codepages.nlp
+0x38e5820 (64): NLS_CodePage_{0}_{1}_{2}_{3}_{4}
+0x38e5fa0 (74): Wb2nXaW5QKKJTY8lC1.yjj6uXD1vhfqPiayOT
+0x38e7530 (54): RemoteActivationService.rem
+0x38e761c (26): property name
+0x38e765c (56): LeaseLifeTimeServiceProperty
+0x38e7720 (66): http://schemas.microsoft.com/clr/
+0x38e7770 (78): http://schemas.microsoft.com/clr/assem/
+0x38e77cc (72): http://schemas.microsoft.com/clr/ns/
+0x38e7824 (82): http://schemas.microsoft.com/clr/nsassem/
+0x38e8034 (44): RFLCT.InvalidFieldFail
+0x38e8070 (42): RFLCT.InvalidPropFail
+0x38e80f0 (62): System.IO.UnmanagedMemoryStream
+0x38e813c (150): mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38e81e0 (216): System.IO.UnmanagedMemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38e832c (56): /RemoteActivationService.rem
+0x38e86fc (42): UnmanagedMemoryStream
+0x38e9174 (38): [{0}{1}] {2,3}% {3}
+0x38e91aa (96): User is not logged in, possible breach detected!
+0x38e9218 (126): ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01234567896
+0x38e9298 (56): https://api.auth.gg/csharp/@
+0x38e92d2 (66): Invalid application information!
+
+0x38e9344 (20): session_id
+0x38e937e (22): session_key
+0x38e93ce (50): Security error triggered!
+0x38e944e (104): https://itirican11.github.io/RainbowUnicorns/Version
+0x38e94ba (20): NEW UPDATE
+0x38e94d2 (138): Looks like there's a new update! Do you want to download it? (Y/N) - 
+0x38e9578 (112): File has been tampered with, couldn't verify integrity!f
+0x38e95ea (102): Failed to connect to server! (Application Disabled)
+0x38e9654 (170): RmFpbGVkIHRvIGJpbmQgdG8gc2VydmVyLCBjaGVjayB5b3VyIEFJRCAmIFNlY3JldCBpbiB5b3VyIGNvZGUhl
+0x38e9700 (110): This application has been banned for violating the TOS:
+0x38e9770 (58): Contact us at support@auth.gg
+0x38e97ae (28): C:\Update.exeb
+0x38e97cc (100): https://itirican11.github.io/RainbowUnicorns/Autoj
+0x38e9832 (106): The new update has been downloaded to `C:\Update.exe`
+0x38e98a0 (32): Premium SpooferR
+0x38e98c2 (84): Please initialize your application first!0
+0x38e9918 (48): Missing log information!
+0x38e9986 (62): Missing user login information!
+0x38e99f6 (70): Security error has been triggered!J
+0x38e9a3e (74): Possible malicious activity detected!
+0x38e9a8c (30): invalid_details
+0x38e9aae (24): time_expired
+0x38e9aca (24): hwid_updated
+0x38e9ae6 (26): invalid_hwid<
+0x38e9b02 (62): Your subscription has expired!j
+0x38e9b42 (106): New machine has been binded, re-open the application!
+0x38e9bb0 (130): This user is binded to another computer, please contact support!<
+0x38e9c34 (60): Invalid registrar information!
+0x38e9cb6 (60): Missing username or password!Z
+0x38e9cf4 (90): Sorry, your username/password does not match!
+0x38e9d52 (144): We have binded to your new hardware id! Please restart the application.t
+0x38e9de4 (118): Wrong HWID, Please open a ticket and request a hwid reset.(
+0x38e9e5c (40): Invalid license key!
+0x38e9e98 (28): invalid_token:
+0x38e9eb6 (58): We have encountered an error!
+0x38e9efa (124): ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcdefghijklmnopqrstuvwxyz
+0x38e9f7a (472): gd8JQ57nxXzLLMPrLylVhxoGnWGCFjO4knKTfRE6mVvdjug2NF/4aptAsZcdIGbAPmcx0O+ftU/KvMIjcfUnH3j+IMdhAW5OpoX3MrjQdf5AAP97tTB5g1wdDSAqKpq9gw06t3VaqMWZHKtPSuAXy0kkZRsc+DicpcY8E9+vWMHXa3jMdbPx4YES0p66GzhqLd/heA2zMvX8iWv4wK7S3QKIW/a9dD4ALZJpmcr9OOE=
+0x38ea156 (130): A session has already been started, please end the previous one!D
+0x38ea1da (68): Windows\System32\drivers\etc\hosts
+0x38ea222 (24): api.auth.ggD
+0x38ea23c (70): DNS redirecting has been detected!$
+0x38ea284 (38): keyauth.com/bypasst
+0x38ea2ac (116): No session has been started, closing for security reasons!
+0x38ea324 (260): 045C03C7FB0E76A822AB197B6663C288D9632E55B39B80296CBCD978707A7E5B3EAE1DB5D487CE9F0E448C3557079CE142F5A41B7F1F6436077D8F3FF7C311888C
+0x38ea43a (78): ARP Cache poisoning has been detected!0
+0x38ea48a (48): Windows\System32\arp.exe
+0x38ea4c6 (50): ({0} [\W]*) ([a-z0-9-]*)&
+0x38ea4fa (40): BAD PROCESS FOUND: h
+0x38ea524 (106): C:\Windows\Temp\0001010100101010101010 - serial.temp^
+0x38ea590 (96): C:\Premium\0001010100101010101010 - serial.tempX
+0x38ea5f2 (90): C:\Temp\0001010100101010101010 - serial.tempN
+0x38ea64e (80): C:\0001010100101010101010 - serial.temp^
+0x38ea6a0 (96): C:\Windows\0001010100101010101010 - serial.tempN
+0x38ea702 (80): C:\Windows\System32\Premium_Spoofer.dll<
+0x38ea754 (60): C:\Windows\Premium_Sp00fer.dll
+0x38ea794 (20): C:\Users\@
+0x38ea7aa (64): \Premium_Sp00fer\Blacklisted.dll
+0x38ea7ee (216): https://cdn.discordapp.com/attachments/817138203386445904/879490008317313055/0100000010010010100101010010100
+0x38ea8c8 (50): You've been blacklisted!"
+0x38ea8fc (36): Win32Exception : 0
+0x38ea922 (50): NotSupportedException : 8
+0x38ea956 (56): InvalidOperationException : 
+0x38eaa3c (20): scylla_x64
+0x38eaa54 (20): scylla_x86
+0x38eaa6c (26): protection_id
+0x38eaad0 (20): ImportREC 
+0x38eaae6 (32): IMMUNITYDEBUGGER
+0x38eab0a (20): MegaDumper
+0x38eab22 (28): HTTPDebuggerUI
+0x38eab42 (30): HTTPDebuggerSvc
+0x38eab64 (28): HTTP Debugger,
+0x38eab82 (46): HTTP Debugger (32 bit),
+0x38eabb2 (44): HTTP Debugger (64 bit)
+0x38eabf4 (24): disassembly
+
+0x38eac4c (42): Import reconstructorF
+0x38eac78 (72): MegaDumper 1.0 by CodeCracker / SnD0
+0x38eacc2 (48): HARDWARE\DEVICEMAP\VIDEO
+0x38eacf6 (30): \Device\Video1@
+0x38ead16 (64): Authetication\Blacklists - ERROR
+0x38ead5a (170): Your missing some important hardware information! Please reset your pc and try again.
+0x38eae08 (198): Your missing some important hardware information! Check #error-fix for [BLACKLISTCHECKVALUE-ERROR]n
+0x38eaed0 (112): https://itirican11.github.io/RainbowUnicorns/BlacklistsZ
+0x38eaf42 (92): You've been blacklisted from Premium Spoofer!4
+0x38eafa0 (54): C:\Windows\Premium_Spoofer0
+0x38eafd8 (50): C:\Windows\Registry KeysP
+0x38eb00c (80): C:\ProgramData\Premium Spooferino\Banned
+0x38eb072 (142): Failed to connect to the authentication system! Server Status : OFFLINE
+0x38eb128 (92): Failed to handshake with the blacklist system!
+0x38eb188 (174): https://cdn.discordapp.com/attachments/817388888145788948/875817218628272208/LXozo59.ee
+0x38eb23a (132): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\Anti-debug.exe
+0x38eb2e2 (252): Hmm, seems like we don't have permission to access your programdata folder! Please whitelist us on your ransomware protection.
+0x38eb3e2 (132): Hmm, seems like a argument is null! Please contact the developers.
+0x38eb46a (208): Hmm, seems like your missing important system dlls! Please check the error-fix channel for [DLL-ERROR-1]
+0x38eb53e (170): Hmm, seems like we can't find our programdata directory! Try restarting the spoofer.v
+0x38eb5ea (120): Hmm, seems like we can't load our anti-debugger. Try again!z
+0x38eb664 (122): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\Disk1.sys
+0x38eb6e2 (134): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\DiskMapper.exe|
+0x38eb76a (124): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\Volume.exe
+0x38eb7ea (146): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\GPU-UUID-Changer.exex
+0x38eb87e (120): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\XBOX.bat
+0x38eb8fa (128): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\Usermode.exe
+0x38eb97e (136): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\KernelMapper.exe
+0x38eba0a (134): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\amifldrv64.sysz
+0x38eba92 (124): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\amide.sys|
+0x38ebb10 (124): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\SMBIOS.sys
+0x38ebb90 (136): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\SMBIOSMapper.exe
+0x38ebc1c (144): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\RegistryCleaner1.bat
+0x38ebcb0 (144): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\RegistryCleaner2.bat
+0x38ebd44 (140): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\FiveM_Cleaner.exev
+0x38ebdd2 (120): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\R6S.batx
+0x38ebe4c (120): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\Apex.bat
+0x38ebec8 (130): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\Valorant.bat~
+0x38ebf4c (128): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\Coldwar.bat~
+0x38ebfce (128): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\Warzone.batv
+0x38ec050 (118): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\FN1.exe
+0x38ec0ca (174): https://cdn.discordapp.com/attachments/817556293987860491/897623813162950667/Mapper.exe
+0x38ec17c (172): https://cdn.discordapp.com/attachments/817138203386445904/878022113993306152/amide.sys
+0x38ec22c (182): https://cdn.discordapp.com/attachments/817138203386445904/878022116946087976/amifldrv64.sys
+0x38ec2e6 (134): C:\ProgramData\regid.1991-06.com.microsoft\Premium\KernelMapper.exe
+0x38ec370 (132): C:\ProgramData\regid.1991-06.com.microsoft\Premium\amifldrv64.sysx
+0x38ec3f6 (122): C:\ProgramData\regid.1991-06.com.microsoft\Premium\amide.sysj
+0x38ec472 (108): cd C:\ProgramData\regid.1991-06.com.microsoft\Premium2
+0x38ec4e0 (50): KernelMapper.exe /su auto
+0x38ec516 (142): We have encountered an error while spoofing from Usermode. [FIVEM|UUID]
+0x38ec5ce (66): 
+     Successfully connected to &
+0x38ec612 (38): , Response Delay : 
+0x38ec646 (100): C:\ProgramData\regid.1991-06.com.microsoft\Premium
+0x38ec6c0 (24): FiveM Cheats
+0x38ec6dc (26): Miscellaneous
+0x38ec6fa (20): Multi-Tool
+0x38ec718 (24): Selection - 
+0x38ec73a (24): Temp Spoofer
+0x38ec756 (24): Perm Spoofer
+0x38ec796 (74): Other (FiveM, RageMP, COD, Valorant)>
+0x38ec7e2 (64): SPOOF (BE) - this doesn't clean@
+0x38ec824 (66): SPOOF (EAC) - this doesn't cleanN
+0x38ec868 (80): Please wait while we spoof your device!B
+0x38ec8ba (66): We are done spoofing your device!
+0x38ec93e (44): COD (Warzone, Coldwar)
+0x38ec984 (28): CS:GO (Faceit)
+0x38ec9aa (92): Are you on a shadow Virtual Machine? (Y/N) - b
+0x38eca08 (100): \Local\Discord\app-1.0.9003\modules\discord_rpc-1:
+0x38eca6e (60): \Roaming\discord\blob_storage,
+0x38ecaac (46): \Roaming\discord\Cache@
+0x38ecadc (64): \Roaming\discord\Session Storage
+0x38ecb34 (36): _Classes\discord-$
+0x38ecb5a (38): \SOFTWARE\discord-R
+0x38ecb82 (84): C:\Program Files (x86)\Blade Group\Confign
+0x38ecbd8 (112): C:\Program Files (x86)\Blade Group\Shadow Control Panelf
+0x38ecc4a (104): C:\Program Files (x86)\Blade Group\ShadowActivitiest
+0x38eccb4 (118): C:\Program Files (x86)\Blade Group\ShadowDumpWindowsDriverd
+0x38ecd2c (102): C:\Program Files (x86)\Blade Group\ShadowInstallern
+0x38ecd94 (112): C:\Program Files (x86)\Blade Group\ShadowInstallerClone`
+0x38ece06 (98): C:\Program Files (x86)\Blade Group\ShadowManagerj
+0x38ece6a (108): C:\Program Files (x86)\Blade Group\ShadowNvidiaDriverb
+0x38eced8 (100): C:\Program Files (x86)\Blade Group\ShadowOperatorh
+0x38ecf3e (106): C:\Program Files (x86)\Blade Group\ShadowProcessatorp
+0x38ecfaa (114): C:\Program Files (x86)\Blade Group\ShadowServicesWatcherb
+0x38ed01e (100): C:\Program Files (x86)\Blade Group\ShadowStreamerl
+0x38ed084 (110): C:\Program Files (x86)\Blade Group\ShadowSystemWatcherd
+0x38ed0f4 (102): C:\Program Files (x86)\Blade Group\ShadowUsbOverIpj
+0x38ed15c (108): C:\Program Files (x86)\Blade Group\ShadowVirtualAudion
+0x38ed1ca (112): C:\Program Files (x86)\Blade Group\ShadowVirtualGamepadf
+0x38ed23c (104): C:\Program Files (x86)\Blade Group\ShadowVirtualHidn
+0x38ed2a6 (112): C:\Program Files (x86)\Blade Group\ShadowVirtualStorageD
+0x38ed318 (68): C:\Program Files (x86)\Blade Group
+0x38ed372 (70): Select Serialnumber From Win32_BIOS
+0x38ed3bc (24): Serialnumber
+0x38ed3d8 (206): It looks like your system's information didn't change. This is a urgent warning please contact Vanity!R
+0x38ed4a8 (84): Please wait while we unspoof your device!F
+0x38ed4fe (72): We are done unspoofing your device!$
+0x38ed548 (38): Extenral - Private*
+0x38ed570 (44): Dumper - Client Sided"
+0x38ed59e (34): Scripthook bypass
+0x38ed5d0 (28): Player Options
+0x38ed5f0 (28): Weapon Options
+0x38ed610 (22): ESP Options
+0x38ed62a (28): Aimbot Options
+0x38ed64a (20): Exit Menu$
+0x38ed660 (38): Your not a tester!8
+0x38ed688 (58): 
+     Enter the server IP - <
+0x38ed6c4 (60): 
+     Enter the server PORT - 
+0x38ed704 (176): https://cdn.discordapp.com/attachments/909524244638101504/915396227418443816/dumper.exe,
+0x38ed7b6 (46): C:\Premium_Spoofer.jar
+
+0x38ed7f4 (66): java -jar Premium_Spoofer.jar -a 
+0x38ed844 (82): We are done dumping! Output Folder : C:\"
+0x38ed898 (34): Premium Dumperino
+0x38ed8be (188): A error has occured while dumping the server, please make sure you typed the ip/port properly!
+0x38ed97e (210): Please check #scripthook-bypass in our discord server for instructions! Please make sure FiveM is closed.
+0x38eda54 (170): https://cdn.discordapp.com/attachments/903432883958603828/917611915138727966/scb.exe@
+0x38edb00 (64): C:\Windows\Scripthook_bypass.exe
+0x38edb54 (34): \FiveM\FiveM.exet
+0x38edb78 (116): Please make sure FiveM is installed in Local_appdata_FiveM
+0x38edbf0 (136): The bypass is now started. Please join a server and open your menu!(
+0x38edc7a (42): Windows 10 Activator(
+0x38edca6 (42): Windows 11 Activator&
+0x38edcd2 (40): Extend Subscription(
+0x38edcfc (40): Subscription details
+0x38edd28 (30): Serial Checker"
+0x38edd48 (36): Fix XBOX servicesb
+0x38edd6e (100): Please wait while we activate windows for you! :)X
+0x38eddd4 (90): C:\ProgramData\Spooferino\Data\Username.jsonX
+0x38ede30 (90): C:\ProgramData\Spooferino\Data\Password.jsonH
+0x38ede8c (72): Please enter your NEW license key : 
+0x38eded8 (144): You have successfully extended your subscription! Current Expiration : ~
+0x38edf6a (126): We have encountered an error while extending your subscription!
+0x38edfec (26): Expiration : 
+0x38ee00a (22): Username : 
+0x38ee024 (24): Variable : 
+
+0x38ee05a (82): Select Serialnumber From Win32_DiskdriveP
+0x38ee0ae (82): Select Serialnumber From Win32_BaseboardP
+0x38ee102 (82): Select Serialnumber From Win32_ProcessorX
+0x38ee156 (88): Select UUID From Win32_ComputerSystemProduct
+0x38ee1be (90): Select serialnumber From Win32_PhysicalMemory
+0x38ee21c (24): serialnumber
+0x38ee238 (152):        ============================DISKDRIVES==============================,
+0x38ee2d2 (44):        Serialnumber : 
+0x38ee302 (150):        ============================BASEBOARD===============================
+0x38ee39c (150):        ===============================RAM==================================
+0x38ee436 (150):        ===============================BIOS=================================
+0x38ee4d0 (152):        ===============================CPU==================================*
+0x38ee56a (42):        ProcessorID : 
+0x38ee598 (150):        ===============================UUID=================================
+0x38ee632 (28):        UUID : 
+0x38ee652 (152):        ====================================================================J
+0x38ee6ec (76): Failed to fetch hardware information!R
+0x38ee73a (82): Please wait while we reset xbox services.
+0x38ee790 (228): https://cdn.discordapp.com/attachments/909524244638101504/915386681392267264/Xbox_Accessory_Management_Service.reg
+0x38ee88c (206): https://cdn.discordapp.com/attachments/909524244638101504/915386681564225556/Xbox_Live_Auth_Manager.reg
+0x38ee972 (200): https://cdn.discordapp.com/attachments/909524244638101504/915386682214330408/Xbox_Live_Game_Save.reg
+0x38eea52 (218): https://cdn.discordapp.com/attachments/909524244638101504/915386682377928704/Xbox_Live_Networking_Service.reg
+0x38eeb44 (28): start C:\1.reg
+0x38eeb64 (28): start C:\2.reg
+0x38eeb84 (28): start C:\3.reg
+0x38eeba4 (30): start C:\4.regr
+0x38eebc4 (116): We are done fixing xbox services, please restart your PC.<
+0x38eec3a (60): Failed to reset xbox services.
+0x38eec80 (20): IP pingerd
+0x38eec96 (102): Distributed Denial Of Service Attack | Almost done6
+0x38eecfe (56): IP geo locate | Coming soonP
+0x38eed38 (82): 
+     Enter the IP you'd like to ping - P
+0x38eed8c (80): This IP does not exist please try again.
+0x38eedec (240):      Please make sure your specs are exactly this or better:
+     At least 4 cores, 2 gb of FREE ram before continuing.4
+0x38eeede (54): Press any key to continue!8
+0x38eef16 (314): Please make sure you have Python3 downloaded for this tool, otherwise it won't work properly. [THIS IS FOR EDUCATION PURPOSES ONLY, ANY MISUSE LIES ON YOU!]&
+0x38ef052 (40): https://offline.xyz$
+0x38ef07c (36): C:\Windows\ddos.py
+0x38ef0a4 (26): cd C:\Windows
+0x38ef0c8 (56): Installing needed packages!4
+0x38ef102 (54): py -m pip install requests2
+0x38ef13a (52): py -m pip install pysocks.
+0x38ef170 (48): py -m pip install socks4
+0x38ef1a2 (54): py -m pip install cfscrape2
+0x38ef1da (52): py -m pip install icmplib.
+0x38ef210 (48): py -m pip install scapy@
+0x38ef242 (64): We are done installing packages.
+0x38ef286 (30): 
+     Methods:.
+0x38ef2a6 (48):      L3:
+     POD, ICMPT
+0x38ef2d8 (84):      L4:
+     TCP, UDP, SYN, VSE, MEM, NTP
+0x38ef330 (164):      L7:
+     BYPASS, CFB, Stress, OStess, DYN, Hit, Null, GET, Post, Slow, Head
+X
+0x38ef3d6 (90): Please enter the METHOD you'd like to use : j
+0x38ef432 (108): Please enter the location of your (socks5) proxies : P
+0x38ef4a0 (82): Please enter the IP you'd like to hit :  
+0x38ef4f4 (34): python3 ddos.py 
+
+0x38ef532 (190): We have successfully launched a attack for 60 minutes, we are using your PC's power to attack.B
+0x38ef5f2 (68): Press any key to stop the attack.z
+0x38ef638 (122): Please contact the developers, this tool is currently broken!
+0x38ef6b6 (154): This build may possibly be corrupted, please wait while we restart the [cli]!
+0x38ef76a (20): ] LOADING 
+0x38ef78e (86): 1234567890!$.:-_zxcvbnmasdfghjklqwertyuioop
+0x38ef7e8 (20): PREMIUM : 
+0x38ef816 (20): avatar_url
+0x38ef840 (80): C:\Windows\System32\Premium_Sp00fer.tmpf
+0x38ef892 (104): C:\Windows\Temp\0001010100101010101010 - serial.tmp\
+0x38ef8fc (94): C:\Premium\0001010100101010101010 - serial.tmpV
+0x38ef95c (88): C:\Temp\0001010100101010101010 - serial.tmpL
+0x38ef9b6 (78): C:\0001010100101010101010 - serial.tmp\
+0x38efa06 (92): C:\Windows\0001010100101010101010 - serial.tmp
+0x38efa66 (22): C:\Premium8
+0x38efa7e (58): cheatengine-x86_64-SSE4-AVX2z
+0x38efaba (124): ERROR CODE : GOTCHA | Please contact a developer immediately,$
+0x38efb38 (38): cheatengine-x86_64 
+0x38efb60 (32): cheatengine-i386
+0x38efb84 (26): Cheat Engine 
+0x38efba0 (34): Cheat Engine 7.2~
+0x38efbc4 (128): Please enter your GTA V directory (example : D:\Games\GTA V) : 4
+0x38efc46 (54): \EOSSDK-Win64-Shipping.dllB
+0x38efc7e (68): Deleted EOSSDK-Win64-Shipping.dllT
+0x38efcc4 (84): Failed to delete EOSSDK-Win64-Shipping.dll
+0x38efd1c (196): https://cdn.discordapp.com/attachments/903483330870259722/904194234125545482/Windows_Activator.exe
+0x38efde4 (132): C:\ProgramData\regid.1991-06.com.microsoft\Premium\Activation.exen
+0x38efe6a (112): We are done activating windows! Please restart your PC!6
+0x38efedc (54): C:\Windows\System32\cmd.exe
+0x38eff16 (132): We have encountered an error while activating windows. [ACTIVATOR]
+0x38eff9e (170): https://cdn.discordapp.com/attachments/853847270281707520/877722146317684766/reg.exe|
+0x38f004a (126): C:\ProgramData\regid.1991-06.com.microsoft\Premium\Cleaner.batl
+0x38f00ca (110): We have encountered an error while cleaning. [CLEANER]$
+0x38f013a (38): \SOFTWARE\Chromium&
+0x38f0162 (38): \SOFTWARE\CitizenFX
+0x38f018c (32): \SOFTWARE\FiveM<
+0x38f01ae (60): _Classes\FiveM.ProtocolHandler
+0x38f01ee (28): _Classes\fivem
+0x38f020e (154): \Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\ShowJumpView
+0x38f02ac (138): \Software\Microsoft\Windows\CurrentVersion\Uninstall\CitizenFX_FiveM@
+0x38f0338 (66): \System\GameConfigStore\Children>
+0x38f037c (62): \Software\Microsoft\DirectInput
+0x38f03be (168): \Software\Micrososft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore
+
+0x38f0476 (44): FiveM.ProtocolHandler(
+0x38f04a4 (42): \DigitalEntitlements,
+0x38f04d0 (46): \FiveM\FiveM.app\cache6
+0x38f0500 (54): \FiveM\FiveM.app\caches.xml
+0x38f053a (22): \CitizenFX*
+0x38f0552 (44): \FiveM\FiveM.app\mods6
+0x38f0580 (56): \FiveM\FiveM.app\imgui.inie<
+0x38f05ba (62): \FiveM\FiveM.app\CitizenFX.ini:
+0x38f05fa (60): \FiveM\FiveM.app\asi-five.dll:
+0x38f0638 (60): \FiveM\FiveM.app\adhesive.dllJ
+0x38f0676 (76): \FiveM\FiveM.app\ros-patches-five.dll0
+0x38f06c4 (50): \FiveM\FiveM.app\crashes*
+0x38f06f8 (42): \FiveM\FiveM.app\logs
+0x38f0726 (130): We have encountered an error while cleaning FiveM. [FIVEMCLEAN1]v
+0x38f07aa (118): C:\ProgramData\regid.1991-06.com.microsoft\Premium\XBOX.bat
+0x38f0824 (172): https://cdn.discordapp.com/attachments/817388888145788948/875814808258220113/XLKJF.bt~
+0x38f08d2 (126): We have encountered an error while unlinking xbox. [UnlinkXBOX]
+0x38f0954 (172): https://cdn.discordapp.com/attachments/817556293987860491/897623808834428978/amide.sys
+0x38f0a04 (182): https://cdn.discordapp.com/attachments/817556293987860491/897623811015475261/amifldrv64.sys
+0x38f0abe (158): \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\disk_spoofer.bat
+0x38f0b60 (140): \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\GPU.exe
+0x38f0bf0 (160): \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\disk_spoofer2.bat
+0x38f0c94 (162): \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\disk_spoofer3.bat:
+0x38f0d38 (60): KernelMapper.exe /ss 00000000:
+0x38f0d76 (60): KernelMapper.exe /bs 00000000:
+0x38f0db4 (60): KernelMapper.exe /bt 00000000<
+0x38f0df2 (62): KernelMapper.exe /psn 00000000<
+0x38f0e32 (62): KernelMapper.exe /ppn 00000000<
+0x38f0e72 (60): KernelMapper.exe /pat 00000000
+0x38f0eb2 (130): We have encountered an error while mapping the driver. [unspoof]>
+0x38f0f36 (62): SOFTWARE\Microsoft\Cryptography
+0x38f0f78 (24): MachineGuid\
+0x38f0f92 (92): HARDWARE\DESCRIPTION\System\CentralProcessor\0
+0x38f0ff2 (22): Identifier*
+0x38f100a (44): Component InformationX
+0x38f1038 (88): SOFTWARE\Microsoft\Windows NT\CurrentVersion
+0x38f1094 (22): InstallDate
+0x38f10ae (24): InstallTime`
+0x38f10c8 (96): SYSTEM\ControlSet001\Services\BasicDisplay\Video
+0x38f113e (104): SYSTEM\CurrentControlSet\Services\BasicDisplay\Video
+0x38f11aa (20): ProductID*
+0x38f11c0 (42): SYSTEM\HardwareConfig
+0x38f11ee (20): LastConfig
+0x38f1212 (94): SYSTEM\ControlSet001\Control\SystemInformation$
+0x38f1272 (38): ComputerHardwareId&
+0x38f129a (40): ComputerHardwareIds 
+0x38f12c4 (34): ABCDEF0123456789F
+0x38f12e8 (72): ABCDEFGHIJKLMNOPQRXTUVWXYZ123456789l
+0x38f1332 (110): Failed to add bypass! Make sure your antivirus is off!z
+0x38f13a2 (124): C:\ProgramData\regid.1991-06.com.microsoft\Premium\SMBIOS.syst
+0x38f1420 (116): C:\ProgramData\regid.1991-06.com.microsoft\Premium\GPU.sys
+0x38f1498 (134): C:\ProgramData\regid.1991-06.com.microsoft\Premium\SMBIOSMapper.exe
+0x38f1522 (174): https://cdn.discordapp.com/attachments/817556293987860491/897641785692672000/Kernel.sys
+0x38f15d4 (194): https://cdn.discordapp.com/attachments/817556293987860491/888080476336705556/f08d9767c68ab05b.exe
+0x38f169a (170): https://cdn.discordapp.com/attachments/895189892236214282/902052343900667904/gpu.sys6
+0x38f1746 (56): SMBIOSMapper.exe SMBIOS.sys~
+0x38f1780 (128): We have encountered an error while mapping the driver. [SMBIOS](
+0x38f1802 (40): Reset-PhysicalDisk *
+0x38f182e (136): We have encountered an error while resetting your disk. [RESETDISK]D
+0x38f18b8 (68): C:\Windows\System32\nvidia-smi.exe
+0x38f1900 (184): https://cdn.discordapp.com/attachments/895189892236214282/903115819758792704/nvidia-smi.exer
+0x38f19ba (114): Failed to mdfy nvidia-smi, please contact the developers!
+0x38f1a44 (124): C:\ProgramData\regid.1991-06.com.microsoft\Premium\SMBIOS2.sys
+0x38f1ac4 (136): C:\ProgramData\regid.1991-06.com.microsoft\Premium\SMBIOSMapper2.exe
+0x38f1b50 (146): \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\smbios.bat
+0x38f1be6 (172): https://cdn.discordapp.com/attachments/903432883958603828/916820077544890428/purpgay_1
+0x38f1c96 (136): We have encountered an error while mapping the driver. [PERMASMBIOS]
+0x38f1d22 (194): https://cdn.discordapp.com/attachments/817556293987860491/891843559114825858/ec600118ef9a8212.exe
+0x38f1de8 (136): C:\ProgramData\regid.1991-06.com.microsoft\Premium\FiveM_Cleaner.exe
+0x38f1e74 (128): We have encountered an error while cleaning FiveM. [FiveMClean2]
+0x38f1ef8 (170): https://cdn.discordapp.com/attachments/817187900302426113/842512159267356693/R6S.batt
+0x38f1fa4 (116): C:\ProgramData\regid.1991-06.com.microsoft\Premium\R6S.bat
+0x38f201c (132): We have encountered an error while cleaning BE/EAC. [RainbowClean]
+0x38f20a4 (204): https://cdn.discordapp.com/attachments/903432883958603828/907786107528290314/Apex_Legends_Cleaner.exev
+0x38f2172 (120): C:\ProgramData\regid.1991-06.com.microsoft\Premium\Apex.bat~
+0x38f21ec (126): We have encountered an error while cleaning BE/EAC. [ApexClean]
+0x38f226e (180): https://cdn.discordapp.com/attachments/817388888145788948/899842821605978182/Valorant.bat~
+0x38f2324 (126): C:\ProgramData\regid.1991-06.com.microsoft\Premium\Valorant.bat
+0x38f23a6 (168): https://cdn.discordapp.com/attachments/903432883958603828/917245069612941312/cleaner
+0x38f2452 (128): C:\ProgramData\regid.1991-06.com.microsoft\Premium\Valorant2.bat
+0x38f24d6 (24): Valorant.bat
+0x38f24f2 (26): Valorant2.bat
+0x38f2510 (130): We have encountered an error while cleaning Valorant. [ValoClean]
+0x38f2596 (192): https://cdn.discordapp.com/attachments/853847270281707520/877722162843250698/Warzonecleaner.exe|
+0x38f2658 (126): C:\ProgramData\regid.1991-06.com.microsoft\Premium\Coldwar.bat~
+0x38f26d8 (126): We have encountered an error while cleaning COD. [ColdwarClean]
+0x38f275a (196): https://cdn.discordapp.com/attachments/817388888145788948/894330534765940736/4dc2c2687e42b56f.sys|
+0x38f2820 (126): C:\ProgramData\regid.1991-06.com.microsoft\Premium\Warzone.bat~
+0x38f28a0 (128): We have encountered an error while cleaning COD. [WarzoneClean]N
+0x38f2922 (80): taskkill /f /im UnrealCEFSubProcess.exe<
+0x38f2974 (62): taskkill /f /im CEFProcess.exeB
+0x38f29b4 (68): taskkill /f /im EasyAntiCheat.exe:
+0x38f29fa (60): taskkill /f /im BEService.exe<
+0x38f2a38 (62): taskkill /f /im BEServices.exe:
+0x38f2a78 (60): taskkill /f /im BattleEye.exeJ
+0x38f2ab6 (76): taskkill /f /im epicgameslauncher.exej
+0x38f2b04 (108): taskkill /f /im FortniteClient-Win64-Shipping_EAC.exeb
+0x38f2b72 (100): taskkill /f /im FortniteClient-Win64-Shipping.exeh
+0x38f2bd8 (106): taskkill /f /im FortniteClient-Win64-Shipping_BE.exeH
+0x38f2c44 (72): taskkill /f /im FortniteLauncher.exe
+0x38f2c9c (200): https://cdn.discordapp.com/attachments/909524244638101504/911022194522476594/ConsoleApplication5.exe
+0x38f2d68 (26): start FN1.exe
+0x38f2d86 (136): We have encountered an error while cleaning EAC/BE. [FortniteClean]z
+0x38f2e10 (122): C:\ProgramData\regid.1991-06.com.microsoft\Premium\Disk33.sys
+0x38f2e8e (134): C:\ProgramData\regid.1991-06.com.microsoft\Premium\DiskMapper33.exe
+0x38f2f18 (166): https://cdn.discordapp.com/attachments/903432883958603828/917233952060743680/Vg.sys
+0x38f2fc2 (182): https://cdn.discordapp.com/attachments/904170760518651924/904178863200944199/1803-20H2.exe6
+0x38f307a (56): DiskMapper33.exe Disk33.sysz
+0x38f30b4 (124): We have encountered an error while mapping the driver. [MISC]|
+0x38f3132 (124): C:\ProgramData\regid.1991-06.com.microsoft\Premium\Disk333.sys
+0x38f31b2 (136): C:\ProgramData\regid.1991-06.com.microsoft\Premium\DiskMapper333.exe
+0x38f323e (176): https://cdn.discordapp.com/attachments/903432883958603828/916818907162112101/Driver.sysz
+0x38f32f0 (122): C:\ProgramData\regid.1991-06.com.microsoft\Premium\Disk11.sys
+0x38f336e (132): C:\ProgramData\regid.1991-06.com.microsoft\Premium\DiskMapper1.exe
+0x38f33f6 (178): https://cdn.discordapp.com/attachments/903432883958603828/917231492499927110/BEDaisy.sys4
+0x38f34aa (54): DiskMapper1.exe Disk11.sysz
+0x38f34e2 (124): We have encountered an error while mapping the driver. [DISK]|
+0x38f3560 (124): C:\ProgramData\regid.1991-06.com.microsoft\Premium\Disk122.sys
+0x38f35e0 (134): C:\ProgramData\regid.1991-06.com.microsoft\Premium\DiskMapper22.exe
+0x38f366a (174): https://cdn.discordapp.com/attachments/903432883958603828/916818776987689020/Driver.sys
+0x38f371c (134): We have encountered an error while mapping the driver. [DISKPERMA]x
+0x38f37a4 (120): C:\ProgramData\regid.1991-06.com.microsoft\Premium\Disk1.sys
+0x38f3820 (130): C:\ProgramData\regid.1991-06.com.microsoft\Premium\DiskMapper.exe
+0x38f38a6 (190): https://cdn.discordapp.com/attachments/903432883958603828/917233303508099102/Easyanticheat.sys0
+0x38f3966 (50): DiskMapper.exe Disk1.sysz
+0x38f399a (122): C:\ProgramData\regid.1991-06.com.microsoft\Premium\Disk12.sys
+0x38f3a18 (132): C:\ProgramData\regid.1991-06.com.microsoft\Premium\DiskMapper2.exe
+0x38f3aa0 (174): https://cdn.discordapp.com/attachments/903432883958603828/916818675091267604/Driver.sys
+0x38f3b52 (178): https://cdn.discordapp.com/attachments/817556293987860491/887448269247111198/VolumeID.idz
+0x38f3c06 (122): C:\ProgramData\regid.1991-06.com.microsoft\Premium\Volume.exe
+0x38f3c84 (22): Volume.exe 
+0x38f3c9e (130): We have encountered an error while mapping the driver. [VolumeID]
+0x38f3d24 (262): reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0003 /v NetworkAddress /d 
+0x38f3e2e (262): reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0002 /v NetworkAddress /d 
+0x38f3f38 (262): reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0004 /v NetworkAddress /d 
+0x38f4042 (262): reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0005 /v NetworkAddress /d 
+0x38f414c (262): reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0001 /v NetworkAddress /d 
+0x38f4256 (262): reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0000 /v NetworkAddress /d 
+0x38f4360 (262): reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0006 /v NetworkAddress /d 
+0x38f446a (262): reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0007 /v NetworkAddress /d 
+0x38f4574 (262): reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0008 /v NetworkAddress /d 
+0x38f467e (176): https://cdn.discordapp.com/attachments/903432883958603828/917911434598445056/Spoofer.exe
+0x38f4732 (144): C:\ProgramData\regid.1991-06.com.microsoft\Premium\GPU-UUID-Changer.exev
+0x38f47c4 (118): We have encountered an error while handling your GPU. [GPU]
+0x38f483e (178): https://cdn.discordapp.com/attachments/903448172934877194/917261581618937886/Spoofer.exe~
+0x38f48f2 (126): We have encountered an error while handling your GPU. [GPUPerm]
+0x38f4974 (178): https://cdn.discordapp.com/attachments/817388888145788948/895516671702335498/Cleaner.exel
+0x38f4a28 (108): We have encountered an error while cleaning. [Cleaner]
+0x38f4a98 (176): https://cdn.discordapp.com/attachments/817388888145788948/895517831536476210/Warzone.exe
+0x38f4b4c (140): C:\ProgramData\regid.1991-06.com.microsoft\Premium\WarzoneCleaner.exez
+0x38f4bda (122): We have encountered an error while cleaning. [WarzoneCleaner]
+0x38f4c58 (178): https://cdn.discordapp.com/attachments/903432883958603828/917908735014346783/Spoofer.exe~
+0x38f4d0c (126): C:\ProgramData\regid.1991-06.com.microsoft\Premium\Usermode.exe
+0x38f4d8e (140): We have encountered an error while spoofing from Usermode. [Usermode]*
+0x38f4e1c (44): KernelMapper.exe /ss *
+0x38f4e4a (44): KernelMapper.exe /bs *
+0x38f4e78 (44): KernelMapper.exe /bt ,
+0x38f4ea6 (46): KernelMapper.exe /psn ,
+0x38f4ed6 (46): KernelMapper.exe /ppn ,
+0x38f4f06 (46): KernelMapper.exe /pat *
+0x38f4f36 (42): KernelMapper.exe /ps 
+0x38f4f64 (138): We have encountered an error while spoofing from Usermode. [Amidewin]
+0x38f4ff2 (144): We have encountered an error while spoofing from Usermode. [EACAmidewin]
+0x38f5086 (142): We have encountered an error while spoofing from Usermode. [BEAmidewin]
+0x38f5118 (194): https://cdn.discordapp.com/attachments/903432883958603828/907793026846433341/Usermode_UMTC_V2.exe
+0x38f51de (136): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\EQU8_Blocker.exe
+0x38f526a (172):      We have launched the EQU8 BLOCKER, and it is currently running in the background!
+0x38f531a (152): We have encountered an error while bypassing EQU8. [SplitgateCleaner/Bypass]
+0x38f53b6 (176): https://cdn.discordapp.com/attachments/909524244638101504/911019349903568987/Cleaner.exe
+0x38f546a (140): C:\ProgramData\regid.1991-06.com.microsoft\Premium\\FNCLEANER____1.bat
+0x38f54fa (146): We have encountered an error while CLEANING FORTNITE. [Fortnite cleaner]8
+0x38f558e (58): C:\Program Files\Blade GroupF
+0x38f55ca (72): C:\Program Files\Blade Group\Configb
+0x38f5614 (100): C:\Program Files\Blade Group\Shadow Control PanelZ
+0x38f567a (92): C:\Program Files\Blade Group\ShadowActivitiesh
+0x38f56d8 (106): C:\Program Files\Blade Group\ShadowDumpWindowsDriverX
+0x38f5744 (90): C:\Program Files\Blade Group\ShadowInstallerb
+0x38f57a0 (100): C:\Program Files\Blade Group\ShadowInstallerCloneT
+0x38f5806 (86): C:\Program Files\Blade Group\ShadowManager^
+0x38f585e (96): C:\Program Files\Blade Group\ShadowNvidiaDriverV
+0x38f58c0 (88): C:\Program Files\Blade Group\ShadowOperator\
+0x38f591a (94): C:\Program Files\Blade Group\ShadowProcessatord
+0x38f597a (102): C:\Program Files\Blade Group\ShadowServicesWatcherV
+0x38f59e2 (88): C:\Program Files\Blade Group\ShadowStreamer`
+0x38f5a3c (98): C:\Program Files\Blade Group\ShadowSystemWatcherX
+0x38f5aa0 (90): C:\Program Files\Blade Group\ShadowUsbOverIp^
+0x38f5afc (96): C:\Program Files\Blade Group\ShadowVirtualAudiob
+0x38f5b5e (100): C:\Program Files\Blade Group\ShadowVirtualGamepadZ
+0x38f5bc4 (92): C:\Program Files\Blade Group\ShadowVirtualHidb
+0x38f5c22 (100): C:\Program Files\Blade Group\ShadowVirtualStorageB
+0x38f5c88 (68): 
+     Connection timed out, IP : 8
+0x38f5cce (58): 
+     Bad destination, IP : 4
+0x38f5d0a (54): , Response Delay : Unknown8
+0x38f5d42 (56): https://itirican11.github.io
+0x38f5d8e (72): ftlacFjrHuhqlVVNoi8FsSbQFDHEBOXDFBL
+
+0x38f5de6 (124): C:\ProgramData\8147ad07-a4a2-4b0b-94f1-9b3b98433192\Data\LoadX
+0x38f5e64 (88): Please wait while we initialize the spoofer!
+0x38f5ec0 (132): http://34.130.116.151/premiumspoofer/RainbowUnicorns/Announcement.
+0x38f5f46 (48): Public Release - v7.4.4r
+0x38f5f78 (116): Please wait while we handshake with the blacklist system!6
+0x38f5fee (56): Successfully authenticated!&
+0x38f6028 (38): Auto Login (Y/N) : 
+0x38f6052 (140): C:\ProgramData\8147ad07-a4a2-4b0b-94f1-9b3b98433192\Data\Username.json
+0x38f60e2 (140): C:\ProgramData\8147ad07-a4a2-4b0b-94f1-9b3b98433192\Data\Password.json
+0x38f617e (38): Key Not Found: {0}(
+0x38f61a6 (40): Index Not Found: {0}
+0x38f61d2 (144): , has been flagged as BLACKLISTED! Please blacklist this hardware id. : 
+0x38f6266 (510): )** - 0b409cd21b8014ccd2154
+How to blacklist the HWID! : Login to the VPS and go to `C:\xampp\htdocs\PremiumSpoofer\RainbowUnicorns` and open `blacklists` with notepad and insert there HWID and save it! ||<@875768439946506250>|| ||<@375725582463533058>||F
+0x38f6466 (70):  has just logged in!
+```Username : 
+0x38f64b0 (22): 
+Password: 
+0x38f64ca (28): 
+ACCOUNT ID : 
+0x38f64ea (30): 
+SPOOFER ID : *
+0x38f650a (42): 
+Internet Protocol : 
+0x38f6538 (26): 
+GPU UUID : *
+0x38f6554 (42): 
+Current Directory : 
+0x38f6582 (30): 
+PC Username : 
+0x38f65ae (122): Failed to find spoofer directory, please restart the spoofer.
+0x38f662c (138): Failed to send [LOGIN_LOG] to the receiver host, skipping [send_log]!
+0x38f66ba (144): Failed to fetch your hwid! Please check error-fix for [MANAGEMENTERROR1]
+0x38f674e (24): Password : t
+0x38f6768 (116): Created username/password file, we are restarting the CLI!
+0x38f6848 (56): https://itirican11.github.io
+0x38f6a38 (44): TargetFrameworkMoniker
+0x38f6a74 (26): .NETFramework
+0x38f6abc (24): WindowsPhone
+0x38f6ae4 (30): WindowsPhoneApp
+0x38f6b10 (24): .NETPortable
+0x38f6b38 (22): Silverlight
+0x38f6b5c (28): WindowsPhone71
+0x38f6b88 (26): WindowsPhone8
+0x38f7384 (32): 0123456789abcdef
+0x38f7440 (28): DownloadString
+0x38f746c (22): maxdatasize
+0x38f74c4 (20): System.Net
+0x38f74e8 (46): System.Net.HttpListener
+0x38f7524 (36): System.Net.Sockets
+0x38f7558 (42): System.Net.WebSockets
+0x38f7590 (32): System.Net.Cache
+0x38f75c0 (30): System.Net.Http
+0x38f775c (294): System.Configuration.Internal.ConfigurationManagerInternal, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38f78c4 (36): system.diagnostics
+0x38f7a18 (276): System.Configuration.ConfigurationBuildersSection, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38f7b58 (58): Config_error_loading_XML_file
+0x38f7bf4 (22): MACHINE/EXE
+0x38f7c48 (24): ROAMING_USER
+0x38f7c70 (20): LOCAL_USER
+0x38f7c94 (64): abcdefghijklmnopqrstuvwxyz012345
+0x38f7d4c (22): user.config
+0x38f7dc0 (26): DataDirectory
+0x38f7e28 (28): \\?\globalroot
+0x38f7fd0 (64): abcdefghijklmnopqrstuvwxyz012345
+0x38f801c (98): Switch.System.Globalization.NoAsyncCurrentCulture
+0x38f808c (112): Switch.System.Globalization.EnforceJapaneseEraYearRanges
+0x38f810c (120): Switch.System.Globalization.FormatJapaneseFirstYearAsANumber
+0x38f8194 (120): Switch.System.Globalization.EnforceLegacyJapaneseDateParsing
+0x38f821c (142): Switch.System.Threading.ThrowExceptionIfDisposedCancellationTokenSource
+0x38f82b8 (144): Switch.System.Diagnostics.EventSource.PreserveEventListnerObjectIdentity
+0x38f8358 (76): Switch.System.IO.UseLegacyPathHandling
+0x38f83b4 (62): Switch.System.IO.BlockLongPaths
+0x38f8400 (136): Switch.System.Security.Cryptography.DoNotAddrOfCspParentWindowHandle
+0x38f8498 (164): Switch.System.Security.ClaimsIdentity.SetActorAsReferenceWhenCopyingClaimsIdentity
+0x38f854c (114): Switch.System.Diagnostics.IgnorePortablePDBsInStackTraces
+0x38f85cc (108): Switch.System.Runtime.Serialization.UseNewMaxArraySize
+0x38f8648 (134): Switch.System.Runtime.Serialization.UseConcurrentFormatterTypeCache
+0x38f86dc (144): Switch.System.Threading.UseLegacyExecutionContextBehaviorUponUndoFailure
+0x38f877c (108): Switch.System.Security.Cryptography.UseLegacyFipsThrow
+0x38f87f8 (150): Switch.System.Runtime.InteropServices.DoNotMarshalOutByrefSafeArrayOnInvoke
+0x38f889c (78): Switch.System.Threading.UseNetCoreTimer
+0x38f88f8 (82): TestSwitch.LocalAppContext.DisableCaching
+0x38f8988 (86): SOFTWARE\Microsoft\.NETFramework\AppContext
+0x38f8a0c (26): C:\Update.exe
+0x38f8a34 (22): system.net/
+0x38f8a58 (70): MACHINE/EXE/ROAMING_USER/LOCAL_USER
+0x38f8aac (48): MACHINE/EXE/ROAMING_USER
+0x38f9420 (28): machine.config
+0x38f9588 (134): C:\Windows\Microsoft.NET\Framework\v4.0.30319\Config\machine.config
+0x38f97a4 (82): ExecutionEngine_MissingSecurityDescriptor
+0x38f98c8 (64): Config_base_unrecognized_element
+0x38f9918 (100): System.Security.Cryptography.RandomNumberGenerator
+0x38f998c (34): cryptoNameMapping
+0x38f9a64 (28): machine.config
+0x38f9a90 (26): configuration
+0x38f9ab8 (40): cryptographySettings
+0x38f9af0 (106): C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\
+0x38f9b68 (158): C:\Users\! SuperRacks\AppData\Roaming\Microsoft\CLR Security Config\v4.0.30319\
+0x38f9c74 (266): System.Security.Cryptography.AesCryptoServiceProvider, System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38f9d8c (230): System.Security.Cryptography.RSACng, System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38f9e80 (230): System.Security.Cryptography.DSACng, System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38f9f74 (238): System.Security.Cryptography.AesManaged, System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38fa070 (254): System.Security.Cryptography.ECDiffieHellmanCng, System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38fa17c (234): System.Security.Cryptography.ECDsaCng, System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38fa274 (230): System.Security.Cryptography.MD5Cng, System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38fa368 (232): System.Security.Cryptography.SHA1Cng, System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38fa460 (236): System.Security.Cryptography.SHA256Cng, System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38fa55c (272): System.Security.Cryptography.SHA256CryptoServiceProvider, System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38fa67c (236): System.Security.Cryptography.SHA384Cng, System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38fa778 (272): System.Security.Cryptography.SHA384CryptoServiceProvider, System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38fa898 (236): System.Security.Cryptography.SHA512Cng, System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38fa994 (272): System.Security.Cryptography.SHA512CryptoServiceProvider, System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38faab4 (262): System.Security.Cryptography.DpapiDataProtector, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fabc8 (42): RandomNumberGenerator
+0x38fac2c (66): System.Security.Cryptography.SHA1
+0x38fac7c (72): System.Security.Cryptography.SHA1Cng
+0x38facd4 (84): System.Security.Cryptography.HashAlgorithm
+0x38fad4c (64): System.Security.Cryptography.MD5
+0x38fad9c (70): System.Security.Cryptography.MD5Cng
+0x38fae28 (70): System.Security.Cryptography.SHA256
+0x38fae7c (76): System.Security.Cryptography.SHA256Cng
+0x38faed8 (112): System.Security.Cryptography.SHA256CryptoServiceProvider
+0x38faf90 (70): System.Security.Cryptography.SHA384
+0x38fafe4 (76): System.Security.Cryptography.SHA384Cng
+0x38fb040 (112): System.Security.Cryptography.SHA384CryptoServiceProvider
+0x38fb0f8 (70): System.Security.Cryptography.SHA512
+0x38fb14c (76): System.Security.Cryptography.SHA512Cng
+0x38fb1a8 (112): System.Security.Cryptography.SHA512CryptoServiceProvider
+0x38fb248 (20): RIPEMD-160
+0x38fb26c (76): System.Security.Cryptography.RIPEMD160
+0x38fb2c8 (90): System.Security.Cryptography.RIPEMD160Managed
+0x38fb330 (66): System.Security.Cryptography.HMAC
+0x38fb380 (94): System.Security.Cryptography.KeyedHashAlgorithm
+0x38fb408 (72): System.Security.Cryptography.HMACMD5
+0x38fb460 (26): HMACRIPEMD160
+0x38fb488 (84): System.Security.Cryptography.HMACRIPEMD160
+0x38fb50c (74): System.Security.Cryptography.HMACSHA1
+0x38fb564 (20): HMACSHA256
+0x38fb588 (78): System.Security.Cryptography.HMACSHA256
+0x38fb5e4 (20): HMACSHA384
+0x38fb608 (78): System.Security.Cryptography.HMACSHA384
+0x38fb664 (20): HMACSHA512
+0x38fb688 (78): System.Security.Cryptography.HMACSHA512
+0x38fb6e4 (24): MACTripleDES
+0x38fb70c (82): System.Security.Cryptography.MACTripleDES
+0x38fb780 (64): System.Security.Cryptography.RSA
+0x38fb7d0 (96): System.Security.Cryptography.AsymmetricAlgorithm
+0x38fb85c (26): DSA-FIPS186-3
+0x38fb898 (64): System.Security.Cryptography.DSA
+0x38fb920 (74): System.Security.Cryptography.ECDsaCng
+0x38fb990 (30): ECDiffieHellman
+0x38fb9bc (36): ECDiffieHellmanCng
+0x38fb9f0 (94): System.Security.Cryptography.ECDiffieHellmanCng
+0x38fba70 (64): System.Security.Cryptography.DES
+0x38fbaf8 (20): Triple DES
+0x38fbb1c (76): System.Security.Cryptography.TripleDES
+0x38fbb8c (64): System.Security.Cryptography.RC2
+0x38fbbfc (74): System.Security.Cryptography.Rijndael
+0x38fbc54 (94): System.Security.Cryptography.SymmetricAlgorithm
+0x38fbcd4 (48): AesCryptoServiceProvider
+0x38fbd14 (106): System.Security.Cryptography.AesCryptoServiceProvider
+0x38fbd8c (20): AesManaged
+0x38fbdb0 (78): System.Security.Cryptography.AesManaged
+0x38fbe0c (36): DpapiDataProtector
+0x38fbe40 (94): System.Security.Cryptography.DpapiDataProtector
+0x38fbeac (84): http://www.w3.org/2000/09/xmldsig#dsa-sha1
+0x38fbf10 (104): System.Security.Cryptography.DSASignatureDescription
+0x38fbf88 (84): http://www.w3.org/2000/09/xmldsig#rsa-sha1
+0x38fbfec (104): System.Security.Cryptography.RSASignatureDescription
+0x38fc064 (98): http://www.w3.org/2001/04/xmldsig-more#rsa-sha256
+0x38fc0d4 (98): http://www.w3.org/2001/04/xmldsig-more#rsa-sha384
+0x38fc144 (98): http://www.w3.org/2001/04/xmldsig-more#rsa-sha512
+0x38fc1b4 (76): http://www.w3.org/2000/09/xmldsig#sha1
+0x38fc210 (78): http://www.w3.org/2001/04/xmlenc#sha256
+0x38fc26c (78): http://www.w3.org/2001/04/xmlenc#sha512
+0x38fc2c8 (84): http://www.w3.org/2001/04/xmlenc#ripemd160
+0x38fc32c (80): http://www.w3.org/2001/04/xmlenc#des-cbc
+0x38fc38c (92): http://www.w3.org/2001/04/xmlenc#tripledes-cbc
+0x38fc3f8 (90): http://www.w3.org/2001/04/xmlenc#kw-tripledes
+0x38fc460 (86): http://www.w3.org/2001/04/xmlenc#aes128-cbc
+0x38fc4c4 (84): http://www.w3.org/2001/04/xmlenc#kw-aes128
+0x38fc528 (86): http://www.w3.org/2001/04/xmlenc#aes192-cbc
+0x38fc58c (84): http://www.w3.org/2001/04/xmlenc#kw-aes192
+0x38fc5f0 (86): http://www.w3.org/2001/04/xmlenc#aes256-cbc
+0x38fc654 (84): http://www.w3.org/2001/04/xmlenc#kw-aes256
+0x38fc6b8 (94): http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+0x38fc724 (274): System.Security.Cryptography.Xml.XmlDsigC14NTransform, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fc844 (120): http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments
+0x38fc8cc (298): System.Security.Cryptography.Xml.XmlDsigC14NWithCommentsTransform, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fca04 (78): http://www.w3.org/2001/10/xml-exc-c14n#
+0x38fca60 (280): System.Security.Cryptography.Xml.XmlDsigExcC14NTransform, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fcb88 (102): http://www.w3.org/2001/10/xml-exc-c14n#WithComments
+0x38fcbfc (304): System.Security.Cryptography.Xml.XmlDsigExcC14NWithCommentsTransform, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fcd3c (80): http://www.w3.org/2000/09/xmldsig#base64
+0x38fcd9c (278): System.Security.Cryptography.Xml.XmlDsigBase64Transform, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fcec0 (88): http://www.w3.org/TR/1999/REC-xpath-19991116
+0x38fcf28 (276): System.Security.Cryptography.Xml.XmlDsigXPathTransform, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fd04c (86): http://www.w3.org/TR/1999/REC-xslt-19991116
+0x38fd0b0 (274): System.Security.Cryptography.Xml.XmlDsigXsltTransform, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fd1d0 (106): http://www.w3.org/2000/09/xmldsig#enveloped-signature
+0x38fd248 (302): System.Security.Cryptography.Xml.XmlDsigEnvelopedSignatureTransform, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fd384 (74): http://www.w3.org/2002/07/decrypt#XML
+0x38fd3dc (278): System.Security.Cryptography.Xml.XmlDecryptionTransform, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fd500 (98): urn:mpeg:mpeg21:2003:01-REL-R-NS:licenseTransform
+0x38fd570 (272): System.Security.Cryptography.Xml.XmlLicenseTransform, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fd690 (86): http://www.w3.org/2000/09/xmldsig# X509Data
+0x38fd6f4 (264): System.Security.Cryptography.Xml.KeyInfoX509Data, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fd80c (84): http://www.w3.org/2000/09/xmldsig# KeyName
+0x38fd870 (256): System.Security.Cryptography.Xml.KeyInfoName, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fd980 (110): http://www.w3.org/2000/09/xmldsig# KeyValue/DSAKeyValue
+0x38fd9fc (256): System.Security.Cryptography.Xml.DSAKeyValue, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fdb0c (110): http://www.w3.org/2000/09/xmldsig# KeyValue/RSAKeyValue
+0x38fdb88 (256): System.Security.Cryptography.Xml.RSAKeyValue, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fdc98 (100): http://www.w3.org/2000/09/xmldsig# RetrievalMethod
+0x38fdd0c (278): System.Security.Cryptography.Xml.KeyInfoRetrievalMethod, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fde30 (92): http://www.w3.org/2001/04/xmlenc# EncryptedKey
+0x38fde9c (272): System.Security.Cryptography.Xml.KeyInfoEncryptedKey, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fdfbc (86): http://www.w3.org/2000/09/xmldsig#hmac-sha1
+0x38fe020 (84): http://www.w3.org/2001/04/xmldsig-more#md5
+0x38fe084 (90): http://www.w3.org/2001/04/xmldsig-more#sha384
+0x38fe0ec (94): http://www.w3.org/2001/04/xmldsig-more#hmac-md5
+0x38fe158 (106): http://www.w3.org/2001/04/xmldsig-more#hmac-ripemd160
+0x38fe1d0 (100): http://www.w3.org/2001/04/xmldsig-more#hmac-sha256
+0x38fe244 (100): http://www.w3.org/2001/04/xmldsig-more#hmac-sha384
+0x38fe2b8 (100): http://www.w3.org/2001/04/xmldsig-more#hmac-sha512
+0x38fe34c (300): System.Security.Cryptography.X509Certificates.X509BasicConstraintsExtension, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38fe4c8 (308): System.Security.Cryptography.X509Certificates.X509SubjectKeyIdentifierExtension, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38fe62c (284): System.Security.Cryptography.X509Certificates.X509KeyUsageExtension, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38fe778 (300): System.Security.Cryptography.X509Certificates.X509EnhancedKeyUsageExtension, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38fe8d4 (260): System.Security.Cryptography.X509Certificates.X509Chain, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x38fe9e8 (40): 1.2.840.113549.1.9.3
+0x38fea20 (268): System.Security.Cryptography.Pkcs.Pkcs9ContentType, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38feb3c (40): 1.2.840.113549.1.9.4
+0x38feb74 (272): System.Security.Cryptography.Pkcs.Pkcs9MessageDigest, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fec94 (40): 1.2.840.113549.1.9.5
+0x38feccc (268): System.Security.Cryptography.Pkcs.Pkcs9SigningTime, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fede8 (44): 1.3.6.1.4.1.311.88.2.1
+0x38fee24 (270): System.Security.Cryptography.Pkcs.Pkcs9DocumentName, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x38fef40 (44): 1.3.6.1.4.1.311.88.2.2
+0x38fef7c (284): System.Security.Cryptography.Pkcs.Pkcs9DocumentDescription, System.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x39003b4 (30): XmlCharType.bin
+0x3900414 (58): TargetsAtLeast_Desktop_V4_5_2
+0x390045c (90): System.Runtime.Versioning.BinaryCompatibility
+0x39004e0 (34): HKEY_CLASSES_ROOT
+0x3900510 (34): HKEY_CURRENT_USER
+0x3900540 (36): HKEY_LOCAL_MACHINE
+0x3900574 (20): HKEY_USERS
+0x3900598 (42): HKEY_PERFORMANCE_DATA
+0x39005d0 (38): HKEY_CURRENT_CONFIG
+0x3900604 (26): HKEY_DYN_DATA
+0x39007dc (72): SOFTWARE\Microsoft\.NETFramework\XML
+0x3900834 (46): EnableLegacyXmlSettings
+0x3900870 (58): http://www.w3.org/2000/xmlns/
+0x39008b8 (72): http://www.w3.org/XML/1998/namespace
+0x3900910 (38): Xml_UnknownEncoding
+0x390099c (46): MaxCharactersInDocument
+0x39009d8 (50): MaxCharactersFromEntities
+0x3900a18 (34): Xml_LimitExceeded
+0x3900a48 (30): Xml_MissingRoot
+0x3900aa4 (66): Xml_EncodingSwitchAfterResetState
+0x3900b20 (36): Xml_InvalidXmlDecl
+0x3900b54 (38): Xml_InvalidTextDecl
+0x3900c04 (20): standalone
+0x3900c6c (48): Xml_InvalidVersionNumber
+0x3900cd4 (34): Xml_UnclosedQuote
+0x3900d04 (36): Xml_UnexpectedEOF1
+0x3900d50 (40): Xml_BadStartNameChar
+0x3900d88 (30): Xml_BadNameChar
+0x3900db4 (34): Xml_UnexpectedEOF
+0x3900dfc (30): iso-10646-ucs-2
+0x3900e40 (48): Xml_MissingByteOrderMark
+0x39010f4 (38): Xml_InvalidRootData
+0x3901128 (40): Xml_UnexpectedEndTag
+0x3901160 (36): Xml_BadDTDLocation
+0x39011b4 (34): Xml_MultipleRoots
+0x3901218 (46): Xml_InvalidCommentChars
+0x3901264 (26): configuration
+0x390128c (28): configSections
+0x39012b8 (102): http://schemas.microsoft.com/.NetConfiguration/v2.0
+0x3901344 (48): Config_namespace_invalid
+0x39013b8 (40): Xml_InvalidCharacter
+0x39013f0 (36): Xml_CDATAEndInText
+0x390143c (28): configBuilders
+0x39014d0 (24): sectionGroup
+0x3901514 (62): Config_tag_name_already_defined
+0x3901560 (34): requirePermission
+0x3901590 (48): restartOnExternalChanges
+0x39015d0 (30): allowDefinition
+0x39015fc (26): allowLocation
+0x3901624 (36): allowExeDefinition
+0x3901658 (38): overrideModeDefault
+0x390168c (90): Config_tag_name_already_defined_at_this_level
+0x390170c (22): appSettings
+0x390175c (38): configProtectedData
+0x3901790 (104): System.Windows.Forms.ApplicationConfigurationSection
+0x3901808 (30): Empty_attribute
+0x3901834 (256): System.Configuration.AppSettingsSection, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x3901974 (64): Config_invalid_boolean_attribute
+0x39019fc (34): connectionStrings
+0x3901a2c (268): System.Configuration.ConnectionStringsSection, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x3901ba0 (246): System.Configuration.IgnoreSection, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x3901cf8 (246): System.Configuration.IgnoreSection, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x3901e34 (30): assemblyBinding
+0x3901e60 (246): System.Configuration.IgnoreSection, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x3901f9c (38): satelliteassemblies
+0x3901fd0 (246): System.Configuration.IgnoreSection, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x3902128 (246): System.Configuration.IgnoreSection, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x3902264 (28): system.codedom
+0x3902290 (252): System.CodeDom.Compiler.CodeDomConfigurationHandler, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x39023d4 (22): system.data
+0x39023f8 (276): System.Data.Common.DbProviderFactoriesConfigurationHandler, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3902554 (38): system.data.dataset
+0x3902588 (246): System.Configuration.NameValueFileSectionHandler, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x39026c4 (32): system.data.odbc
+0x39026f4 (258): System.Data.Common.DbProviderConfigurationHandler, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x390283c (34): system.data.oledb
+0x390286c (258): System.Data.Common.DbProviderConfigurationHandler, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x39029b4 (48): system.data.oracleclient
+0x39029f4 (258): System.Data.Common.DbProviderConfigurationHandler, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3902b3c (42): system.data.sqlclient
+0x3902b74 (258): System.Data.Common.DbProviderConfigurationHandler, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3902cbc (36): system.diagnostics
+0x3902cf0 (236): System.Diagnostics.SystemDiagnosticsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3902e24 (46): system.runtime.remoting
+0x3902e60 (246): System.Configuration.IgnoreSection, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x3902f9c (40): system.windows.forms
+0x3902fd4 (258): System.Windows.Forms.WindowsFormsSection, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3903138 (246): System.Configuration.IgnoreSection, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x3903288 (212): System.Configuration.UriSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x39033a4 (44): system.runtime.caching
+0x39033e0 (294): System.Runtime.Caching.Configuration.CachingSectionGroup, System.Runtime.Caching, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390354c (22): memoryCache
+0x3903570 (292): System.Runtime.Caching.Configuration.MemoryCacheSection, System.Runtime.Caching, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x39036a4 (20): Everywhere
+0x39036c8 (22): MachineOnly
+0x39036ec (40): MachineToApplication
+0x3903724 (32): MachineToWebRoot
+0x3903754 (98): Config_section_allow_definition_attribute_invalid
+0x39037c4 (68): system.runtime.caching/memoryCache
+0x3903850 (48): system.xml.serialization
+0x3903890 (286): System.Xml.Serialization.Configuration.SerializationSectionGroup, System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x39039f4 (48): schemaImporterExtensions
+0x3903a34 (298): System.Xml.Serialization.Configuration.SchemaImporterExtensionsSection, System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3903b6c (98): system.xml.serialization/schemaImporterExtensions
+0x3903c14 (42): dateTimeSerialization
+0x3903c4c (292): System.Xml.Serialization.Configuration.DateTimeSerializationSection, System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3903d80 (92): system.xml.serialization/dateTimeSerialization
+0x3903e24 (26): xmlSerializer
+0x3903e4c (276): System.Xml.Serialization.Configuration.XmlSerializerSection, System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3903f70 (76): system.xml.serialization/xmlSerializer
+0x3904004 (20): system.net
+0x3904028 (230): System.Net.Configuration.NetSectionGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3904154 (42): authenticationModules
+0x390418c (256): System.Net.Configuration.AuthenticationModulesSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x390429c (64): system.net/authenticationModules
+0x3904324 (40): connectionManagement
+0x390435c (254): System.Net.Configuration.ConnectionManagementSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3904468 (62): system.net/connectionManagement
+0x39044ec (24): defaultProxy
+0x3904514 (238): System.Net.Configuration.DefaultProxySection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3904610 (46): system.net/defaultProxy
+0x3904684 (24): mailSettings
+0x39046ac (248): System.Net.Configuration.MailSettingsSectionGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x39047b4 (46): system.net/mailSettings
+0x3904840 (222): System.Net.Configuration.SmtpSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x390492c (56): system.net/mailSettings/smtp
+0x39049ac (28): requestCaching
+0x39049d8 (242): System.Net.Configuration.RequestCachingSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3904ad8 (50): system.net/requestCaching
+0x3904b70 (230): System.Net.Configuration.SettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3904c64 (38): system.net/settings
+0x3904cd0 (34): webRequestModules
+0x3904d00 (248): System.Net.Configuration.WebRequestModulesSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3904e08 (56): system.net/webRequestModules
+0x3904e88 (56): system.runtime.serialization
+0x3904ed0 (330): System.Runtime.Serialization.Configuration.SerializationSectionGroup, System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3905060 (44): dataContractSerializer
+0x390509c (338): System.Runtime.Serialization.Configuration.DataContractSerializerSection, System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x39051fc (102): system.runtime.serialization/dataContractSerializer
+0x39052a8 (38): system.serviceModel
+0x39052dc (292): System.ServiceModel.Configuration.ServiceModelSectionGroup, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3905468 (276): System.ServiceModel.Configuration.BehaviorsSection, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x390558c (58): system.serviceModel/behaviors
+0x390562c (274): System.ServiceModel.Configuration.BindingsSection, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x390574c (56): system.serviceModel/bindings
+0x39057f0 (34): Xml_InternalError
+0x3905820 (40): Xml_BadAttributeChar
+0x3905858 (40): Xml_EntityRefNesting
+0x39058ac (270): System.ServiceModel.Configuration.ClientSection, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x39059c8 (52): system.serviceModel/client
+0x3905a44 (24): comContracts
+0x3905a6c (282): System.ServiceModel.Configuration.ComContractsSection, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3905b94 (64): system.serviceModel/comContracts
+0x3905c1c (30): commonBehaviors
+0x3905c48 (288): System.ServiceModel.Configuration.CommonBehaviorsSection, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3905d78 (36): MachineToLocalUser
+0x3905dac (40): MachineToRoamingUser
+0x3905de4 (70): system.serviceModel/commonBehaviors
+0x3905e70 (22): diagnostics
+0x3905e94 (278): System.ServiceModel.Configuration.DiagnosticSection, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3905fb8 (62): system.serviceModel/diagnostics
+0x390603c (20): extensions
+0x3906060 (278): System.ServiceModel.Configuration.ExtensionsSection, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3906184 (60): system.serviceModel/extensions
+0x3906208 (30): machineSettings
+0x3906234 (276): System.ServiceModel.Configuration.MachineSettingsSection, SMDiagnostics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3906358 (70): system.serviceModel/machineSettings
+0x39063e4 (30): protocolMapping
+0x3906410 (288): System.ServiceModel.Configuration.ProtocolMappingSection, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3906540 (70): system.serviceModel/protocolMapping
+0x39065cc (50): serviceHostingEnvironment
+0x390660c (308): System.ServiceModel.Configuration.ServiceHostingEnvironmentSection, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3906750 (90): system.serviceModel/serviceHostingEnvironment
+0x3906810 (274): System.ServiceModel.Configuration.ServicesSection, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3906930 (56): system.serviceModel/services
+0x39069b0 (34): standardEndpoints
+0x39069e0 (292): System.ServiceModel.Configuration.StandardEndpointsSection, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3906b14 (74): system.serviceModel/standardEndpoints
+0x3906bc0 (304): System.ServiceModel.Routing.Configuration.RoutingSection, System.ServiceModel.Routing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+0x3906d00 (54): system.serviceModel/routing
+0x3906d9c (336): System.ServiceModel.Activities.Tracking.Configuration.TrackingSection, System.ServiceModel.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+0x3906efc (56): system.serviceModel/tracking
+0x3906f7c (60): system.serviceModel.activation
+0x3906fc8 (334): System.ServiceModel.Activation.Configuration.ServiceModelActivationSectionGroup, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x390715c (22): diagnostics
+0x3907180 (300): System.ServiceModel.Activation.Configuration.DiagnosticSection, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x39072bc (84): system.serviceModel.activation/diagnostics
+0x3907378 (294): System.ServiceModel.Activation.Configuration.NetPipeSection, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x39074ac (78): system.serviceModel.activation/net.pipe
+0x390755c (292): System.ServiceModel.Activation.Configuration.NetTcpSection, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3907690 (76): system.serviceModel.activation/net.tcp
+0x3907724 (38): system.transactions
+0x3907758 (318): System.Transactions.Configuration.TransactionsSectionGroup, System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Custom=null
+0x39078dc (30): defaultSettings
+0x3907908 (314): System.Transactions.Configuration.DefaultSettingsSection, System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Custom=null
+0x3907a50 (70): system.transactions/defaultSettings
+0x3907adc (30): machineSettings
+0x3907b08 (314): System.Transactions.Configuration.MachineSettingsSection, System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Custom=null
+0x3907c54 (154): ersion=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Custom=null
+0x3907cfc (70): system.transactions/defaultSettings
+0x3907d88 (30): machineSettings
+0x3907db4 (314): System.Transactions.Configuration.MachineSettingsSection, System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, Custom=null
+0x3908044 (52): .NETFramework,Version=v4.8
+0x3908088 (44): ExecutionContext_UndoF
+0x3908868 (62): The C++ module failed to load.
+
+0x39088b4 (70): system.transactions/machineSettings
+0x3908940 (20): system.web
+0x3908964 (250): System.Web.Configuration.SystemWebSectionGroup, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x3908aa4 (46): anonymousIdentification
+0x3908ae0 (268): System.Web.Configuration.AnonymousIdentificationSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x3908bfc (68): system.web/anonymousIdentification
+0x3908c88 (28): authentication
+0x3908cb4 (250): System.Web.Configuration.AuthenticationSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x3908dbc (50): system.web/authentication
+0x3908e34 (26): authorization
+0x3908e5c (248): System.Web.Configuration.AuthorizationSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x3908f64 (48): system.web/authorization
+0x3908fdc (22): browserCaps
+0x3909000 (268): System.Web.Configuration.HttpCapabilitiesSectionHandler, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390911c (44): system.web/browserCaps
+0x3909190 (24): clientTarget
+0x39091b8 (246): System.Web.Configuration.ClientTargetSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x39092bc (46): system.web/clientTarget
+0x3909330 (22): compilation
+0x3909354 (244): System.Web.Configuration.CompilationSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x3909458 (44): system.web/compilation
+0x3909e14 (24): customErrors
+0x3909e3c (246): System.Web.Configuration.CustomErrorsSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x3909f40 (46): system.web/customErrors
+0x3909fb4 (20): deployment
+0x3909fd8 (242): System.Web.Configuration.DeploymentSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390a0d8 (42): system.web/deployment
+0x390a148 (26): deviceFilters
+0x390a170 (248): System.Web.Mobile.DeviceFiltersSection, System.Web.Mobile, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390a278 (48): system.web/deviceFilters
+0x390a2f0 (38): fullTrustAssemblies
+0x390a324 (260): System.Web.Configuration.FullTrustAssembliesSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390a438 (60): system.web/fullTrustAssemblies
+0x390a4bc (26): globalization
+0x390a4e4 (248): System.Web.Configuration.GlobalizationSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390a5ec (48): system.web/globalization
+0x390a664 (32): healthMonitoring
+0x390a694 (254): System.Web.Configuration.HealthMonitoringSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390a7a0 (54): system.web/healthMonitoring
+0x390a81c (36): hostingEnvironment
+0x390a850 (258): System.Web.Configuration.HostingEnvironmentSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390a960 (58): system.web/hostingEnvironment
+0x390a9e0 (22): httpCookies
+0x390aa04 (244): System.Web.Configuration.HttpCookiesSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390ab08 (44): system.web/httpCookies
+0x390ab7c (24): httpHandlers
+0x390aba4 (246): System.Web.Configuration.HttpHandlersSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390aca8 (46): system.web/httpHandlers
+0x390ad1c (22): httpModules
+0x390ad40 (244): System.Web.Configuration.HttpModulesSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390ae44 (44): system.web/httpModules
+0x390aeb8 (22): httpRuntime
+0x390aedc (244): System.Web.Configuration.HttpRuntimeSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390afe0 (44): system.web/httpRuntime
+0x390b074 (238): System.Web.Configuration.IdentitySection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390b170 (38): system.web/identity
+0x390b1dc (20): machineKey
+0x390b200 (242): System.Web.Configuration.MachineKeySection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390b300 (42): system.web/machineKey
+0x390b370 (20): membership
+0x390b394 (242): System.Web.Configuration.MembershipSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390b494 (42): system.web/membership
+0x390b504 (28): mobileControls
+0x390b530 (272): System.Web.UI.MobileControls.MobileControlsSection, System.Web.Mobile, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390b650 (50): system.web/mobileControls
+0x390b6e0 (232): System.Web.Configuration.PagesSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390b7d8 (32): system.web/pages
+0x390b840 (58): partialTrustVisibleAssemblies
+0x390b888 (280): System.Web.Configuration.PartialTrustVisibleAssembliesSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390b9b0 (80): system.web/partialTrustVisibleAssemblies
+0x390ba48 (24): processModel
+0x390ba70 (246): System.Web.Configuration.ProcessModelSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390bb74 (46): system.web/processModel
+0x390bc04 (236): System.Web.Configuration.ProfileSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390bd00 (36): system.web/profile
+0x390bd8c (240): System.Web.Configuration.ProtocolsSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390be8c (40): system.web/protocols
+0x390befc (22): roleManager
+0x390bf20 (244): System.Web.Configuration.RoleManagerSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390c024 (44): system.web/roleManager
+0x390c098 (28): securityPolicy
+0x390c0c4 (250): System.Web.Configuration.SecurityPolicySection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390c1cc (50): system.web/securityPolicy
+0x390c244 (32): sessionPageState
+0x390c274 (254): System.Web.Configuration.SessionPageStateSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390c380 (54): system.web/sessionPageState
+0x390c3fc (24): sessionState
+0x390c424 (246): System.Web.Configuration.SessionStateSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390c528 (46): system.web/sessionState
+0x390c5b8 (236): System.Web.Configuration.SiteMapSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390c6b4 (36): system.web/siteMap
+0x390c738 (232): System.Web.Configuration.TraceSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390c830 (32): system.web/trace
+0x390c8b0 (232): System.Web.Configuration.TrustSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390c9a8 (32): system.web/trust
+0x390ca10 (22): urlMappings
+0x390ca34 (244): System.Web.Configuration.UrlMappingsSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390cb38 (44): system.web/urlMappings
+0x390cbac (22): webControls
+0x390cbd0 (244): System.Web.Configuration.WebControlsSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390ccd4 (44): system.web/webControls
+0x390cd68 (238): System.Web.Configuration.WebPartsSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390ce64 (38): system.web/webParts
+0x390ced0 (22): webServices
+0x390cef4 (280): System.Web.Services.Configuration.WebServicesSection, System.Web.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390d01c (44): system.web/webServices
+0x390d090 (32): xhtmlConformance
+0x390d0c0 (254): System.Web.Configuration.XhtmlConformanceSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390d1cc (54): system.web/xhtmlConformance
+0x390d264 (264): System.Web.Configuration.SystemWebCachingSectionGroup, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390d37c (36): system.web/caching
+0x390d400 (232): System.Web.Configuration.CacheSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390d4f8 (48): system.web/caching/cache
+0x390d570 (22): outputCache
+0x390d594 (244): System.Web.Configuration.OutputCacheSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390d698 (60): system.web/caching/outputCache
+0x390d71c (38): outputCacheSettings
+0x390d750 (260): System.Web.Configuration.OutputCacheSettingsSection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390d864 (76): system.web/caching/outputCacheSettings
+0x390d8f8 (36): sqlCacheDependency
+0x390d92c (258): System.Web.Configuration.SqlCacheDependencySection, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390da3c (74): system.web/caching/sqlCacheDependency
+0x390dacc (42): system.web.extensions
+0x390db04 (292): System.Web.Configuration.SystemWebExtensionsSectionGroup, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+0x390dc90 (272): System.Web.Configuration.ScriptingSectionGroup, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+0x390ddb0 (62): system.web.extensions/scripting
+0x390de34 (42): scriptResourceHandler
+0x390de6c (304): System.Web.Configuration.ScriptingScriptResourceHandlerSection, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+0x390dfac (106): system.web.extensions/scripting/scriptResourceHandler
+0x390e05c (22): webServices
+0x390e080 (294): System.Web.Configuration.ScriptingWebServicesSectionGroup, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+0x390e1b4 (86): system.web.extensions/scripting/webServices
+0x390e250 (34): jsonSerialization
+0x390e280 (296): System.Web.Configuration.ScriptingJsonSerializationSection, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+0x390e3b8 (122): system.web.extensions/scripting/webServices/jsonSerialization
+0x390e478 (28): profileService
+0x390e4a4 (290): System.Web.Configuration.ScriptingProfileServiceSection, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+0x390e5d4 (116): system.web.extensions/scripting/webServices/profileService
+0x390e690 (42): authenticationService
+0x390e6c8 (304): System.Web.Configuration.ScriptingAuthenticationServiceSection, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+0x390e808 (130): system.web.extensions/scripting/webServices/authenticationService
+0x390e8d0 (22): roleService
+0x390e8f4 (284): System.Web.Configuration.ScriptingRoleServiceSection, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+0x390ea20 (110): system.web.extensions/scripting/webServices/roleService
+0x390ead4 (38): system.xaml.hosting
+0x390eb08 (290): System.Xaml.Hosting.Configuration.XamlHostingSectionGroup, System.Xaml.Hosting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+0x390ec70 (24): httpHandlers
+0x390ec98 (280): System.Xaml.Hosting.Configuration.XamlHostingSection, System.Xaml.Hosting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+0x390edc0 (64): system.xaml.hosting/httpHandlers
+0x390ee48 (32): system.webServer
+0x390ee78 (246): System.Configuration.IgnoreSection, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390efb4 (278): System.Configuration.ProtectedConfigurationSection, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390f0d8 (256): System.Configuration.AppSettingsSection, System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+0x390f258 (60): Config_sections_must_be_unique
+0x390f2a4 (42): Config_section_locked
+0x390f2dc (24): configSource
+0x390f304 (48): configProtectionProvider
+0x390f344 (52): Config_source_syntax_error
+0x390f388 (64): Protection_provider_syntax_error
+0x390f3d8 (72): Config_location_location_not_allowed
+0x390f430 (106): Config_client_config_too_many_configsections_elements
+0x390f4a8 (82): Config_unrecognized_configuration_section
+0x390f508 (82): Config_section_cannot_be_used_in_location
+0x390f568 (22): appSettings
+0x390f58c (34): connectionStrings
+0x390f5bc (36): system.diagnostics
+0x390f7c4 (1876): <configProtectedData defaultProvider="RsaProtectedConfigurationProvider">
+        <providers>
+            <add name="RsaProtectedConfigurationProvider"
+    type="System.Configuration.RsaProtectedConfigurationProvider,System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    description="Uses RsaCryptoServiceProvider to encrypt and decrypt"
+    keyContainerName="NetFrameworkConfigurationKey"
+    cspProviderName=""
+    useMachineContainer="true"
+    useOAEP="true" />
+
+            <add name="DataProtectionConfigurationProvider"
+    type="System.Configuration.DpapiProtectedConfigurationProvider,System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    description="Uses CryptProtectData and CryptUnProtectData Windows APIs to encrypt and decrypt"
+    useMachineProtection="true"
+    keyEntropy=""  />
+        </providers>
+    </configProtectedData>
+0x3910000 (20): system.net
+0x39100b0 (506): <connectionStrings>
+        <add name="LocalSqlServer" connectionString="data source=.\SQLEXPRESS;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|aspnetdb.mdf;User Instance=true" providerName="System.Data.SqlClient"/>
+    </connectionStrings>
+0x39108fc (24): ROAMING_USER
+0x3910924 (20): LOCAL_USER
+0x3910948 (22): MACHINE/EXE
+0x3910aec (48): MACHINE/EXE/ROAMING_USER
+0x3910b90 (24): ROAMING_USER
+0x3910c3c (70): MACHINE/EXE/ROAMING_USER/LOCAL_USER
+0x3910cf4 (20): LOCAL_USER
+0x3911330 (38): performanceCounters
+0x391139c (30): sharedListeners
+0x3911458 (30): assertuienabled
+0x3911484 (22): logfilename
+0x3911524 (28): lockAttributes
+0x3911550 (46): lockAllAttributesExcept
+0x391158c (24): lockElements
+0x39115b4 (42): lockAllElementsExcept
+0x3911868 (30): filemappingsize
+0x3911f10 (20): indentsize
+0x3911f34 (26): useGlobalLock
+0x3912468 (28): CreateInstance
+0x3912834 (36): traceOutputOptions
+0x3912a40 (28): initializeData
+0x3912b9c (78): System.Diagnostics.DefaultTraceListener
+0x3912c1c (86): Config_base_collection_entry_already_exists
+0x391313c (42): Arg_EnumValueNotFound
+0x3913174 (46): Arg_MustContainEnumInfo
+0x39134e4 (24): DownloadData
+0x391350c (26): net_webclient
+0x3913534 (20): WebRequest
+0x39135b4 (40): itirican11.github.io
+0x39135ec (58): https://itirican11.github.io/
+0x39137d4 (34): webRequestModules
+0x3913810 (20): system.net
+0x39148c8 (28): HttpWebRequest
+0x3914afc (28): httpWebRequest
+0x3914b40 (38): servicePointManager
+0x3914b90 (28): webProxyScript
+0x3914bbc (24): httpListener
+0x3914be4 (20): webUtility
+0x3914c08 (42): windowsAuthentication
+0x3915104 (68): alwaysUseCompletionPortsForConnect
+0x3915158 (66): alwaysUseCompletionPortsForAccept
+0x39151a8 (34): ipProtectionLevel
+0x3915448 (40): checkCertificateName
+0x3915480 (60): checkCertificateRevocationList
+0x39154cc (34): dnsRefreshTimeout
+0x39154fc (38): enableDnsRoundRobin
+0x3915530 (32): encryptionPolicy
+0x3915560 (34): expect100Continue
+0x3915590 (34): useNagleAlgorithm
+0x3915b20 (56): maximumResponseHeadersLength
+0x3915b68 (52): maximumErrorResponseLength
+0x3915bac (62): maximumUnauthorizedUploadLength
+0x3915bf8 (44): useUnsafeHeaderParsing
+0x3915eb8 (52): autoConfigUrlRetryInterval
+0x3915efc (30): downloadTimeout
+0x3916054 (94): Validation_scalar_range_violation_not_different
+0x39160c0 (86): Validation_scalar_range_violation_not_equal
+0x3916124 (102): Validation_scalar_range_violation_not_outside_range
+0x3916198 (92): Validation_scalar_range_violation_not_in_range
+0x39165d4 (36): unescapeRequestUrl
+0x3916828 (20): entityBody
+0x391684c (30): drainEntityBody
+0x3916878 (24): requestQueue
+0x39168a0 (28): idleConnection
+0x39168cc (20): headerWait
+0x39168f0 (42): minSendBytesPerSecond
+0x3916cf8 (66): defaultCredentialsHandleCacheSize
+0x3916f0c (52): unicodeDecodingConformance
+0x3916f50 (52): unicodeEncodingConformance
+0x39171f0 (98): /.NET/NetClasses/HttpWebRequest/CONNECT__Group$$/
+0x3917414 (20): .appDomain
+0x3917438 (34): net_osinstalltype
+0x3917468 (24): LICENSE_FILE
+0x3917490 (38): LOADER_OPTIMIZATION
+0x3917500 (88): Software\Microsoft\Windows NT\CurrentVersion
+0x3917568 (32): InstallationType
+0x39175b4 (122): Software\Microsoft\Windows NT\CurrentVersion\InstallationType
+0x391763c (46): net_empty_osinstalltype
+0x3917694 (22): Server Core
+0x39176d8 (50): net_unknown_osinstalltype
+0x3917718 (64): net_cant_determine_osinstalltype
+0x3917774 (48): HWRPortReuseOnSocketBind
+0x39177b4 (90): net_log_set_socketoption_reuseport_default_on
+0x391781c (74): SOFTWARE\Microsoft\.NETFramework\v{0}
+0x3917874 (128): System.Net.ServicePointManager.UseHttpPipeliningAndBufferPooling
+0x3917904 (66): UseHttpPipeliningAndBufferPooling
+0x391799c (24): Handle Count
+0x39179c4 (32): Pool Paged Bytes
+0x39179f4 (38): Pool Nonpaged Bytes
+0x3917a28 (24): Elapsed Time
+0x3917a50 (36): Virtual Bytes Peak
+0x3917a84 (26): Virtual Bytes
+0x3917aac (26): Private Bytes
+0x3917ad4 (30): Page File Bytes
+0x3917b00 (40): Page File Bytes Peak
+0x3917b38 (32): Working Set Peak
+0x3917b68 (22): Working Set
+0x3917bac (20): ID Process
+0x3917bd0 (26): Priority Base
+0x3917bf8 (32): Priority Current
+0x3917c28 (22): % User Time
+0x3917c4c (34): % Privileged Time
+0x3917c7c (26): Start Address
+0x3917ca4 (24): Thread State
+0x3917ccc (36): Thread Wait Reason
+0x3917fec (58): \SystemRoot\System32\smss.exe
+0x391806c (32): SeDebugPrivilege
+0x39180cc (108): System.Net.ServicePointManager.UseSafeSynchronousClose
+0x3918148 (46): UseSafeSynchronousClose
+0x3918184 (132): System.Net.ServicePointManager.UseStrictRfcInterimResponseHandling
+0x3918218 (70): UseStrictRfcInterimResponseHandling
+0x391826c (92): System.Uri.AllowDangerousUnicodeDecompositions
+0x39182d8 (70): AllowDangerousUnicodeDecompositions
+0x391832c (76): System.Uri.UseStrictIPv6AddressParsing
+0x3918388 (54): UseStrictIPv6AddressParsing
+0x39183cc (78): System.Uri.AllowAllUriEncodingExpansion
+0x3918428 (56): AllowAllUriEncodingExpansion
+0x3918470 (92): Switch.System.Net.DontEnableSchUseStrongCrypto
+0x39184dc (36): SchUseStrongCrypto
+0x3918510 (82): TestSwitch.LocalAppContext.DisableCaching
+0x39185ac (34): System.AppContext
+0x39185dc (24): TryGetSwitch
+0x3918674 (88): InvalidOperation_APIInvalidForCurrentContext
+0x39186fc (26): .NETFramework
+0x391875c (104): Switch.System.Net.DontEnableSystemDefaultTlsVersions
+0x39187f4 (120): Switch.System.MemberDescriptorEqualsReturnsFalseIfEquivalent
+0x391887c (74): Switch.System.Net.DontEnableTlsAlerts
+0x39188d4 (122): Switch.System.IO.Ports.DoNotCatchSerialStreamThreadExceptions
+0x391895c (124): Switch.System.Uri.DontEnableStrictRFC3986ReservedCharacterSets
+0x39189e8 (114): Switch.System.Uri.DontKeepUnicodeBidiFormattingCharacters
+0x3918a68 (138): Switch.System.IO.Compression.DoNotUseNativeZipLibraryForDecompression
+0x3918b00 (24): WindowsPhone
+0x3918b28 (30): WindowsPhoneApp
+0x3918b54 (88): Switch.System.Net.DontEnableSchSendAuxRecord
+0x3918bbc (94): System.Net.ServicePointManager.SchSendAuxRecord
+0x3918c28 (32): SchSendAuxRecord
+0x3918c58 (48): SystemDefaultTlsVersions
+0x3918c98 (110): System.Net.ServicePointManager.SystemDefaultTlsVersions
+0x3918d14 (84): Switch.System.Net.DontCheckCertificateEKUs
+0x3918d78 (106): System.Net.ServicePointManager.RequireCertificateEKUs
+0x3918df0 (44): RequireCertificateEKUs
+0x3918e2c (94): System.Net.ServicePointManager.SecurityProtocol
+0x3918eb4 (46): Connections Established
+0x3918ef0 (28): Bytes Received
+0x3918f1c (20): Bytes Sent
+0x3918f40 (36): Datagrams Received
+0x3918f74 (28): Datagrams Sent
+0x3918fa0 (54): HttpWebRequests Created/Sec
+0x3918fe4 (64): HttpWebRequests Average Lifetime
+0x3919034 (74): HttpWebRequests Average Lifetime Base
+0x391908c (52): HttpWebRequests Queued/Sec
+0x39190d0 (68): HttpWebRequests Average Queue Time
+0x3919124 (78): HttpWebRequests Average Queue Time Base
+0x3919180 (54): HttpWebRequests Aborted/Sec
+0x39191c4 (52): HttpWebRequests Failed/Sec
+0x3919254 (70): net_perfcounter_cant_queue_workitem
+0x39192b8 (44): NetworkingPerfCounters
+0x3919358 (24): defaultProxy
+0x3919558 (20): bypasslist
+0x39195b0 (42): useDefaultCredentials
+0x39198e0 (20): autoDetect
+0x3919904 (28): scriptLocation
+0x3919930 (26): bypassonlocal
+0x3919958 (24): proxyaddress
+0x3919980 (32): usesystemdefault
+0x391a0f4 (54): net_log_proxy_ras_supported
+0x391a574 (34): Unknown error (0x
+0x391a5f8 (142): SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\Connections
+0x391a694 (136): SOFTWARE\Policies\Microsoft\Windows\CurrentVersion\Internet Settings
+0x391a87c (24): AD AUTHORITY
+0x391a8a4 (116): http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name
+0x391a928 (128): http://schemas.microsoft.com/ws/2008/06/identity/claims/groupsid
+0x391a9c4 (120): http://schemas.microsoft.com/ws/2008/06/identity/claims/role
+0x391aa60 (78): http://www.w3.org/2001/XMLSchema#string
+0x391aabc (30): LOCAL AUTHORITY
+0x391ab58 (64): SOFTWARE\Microsoft\.NETFramework
+0x391aba8 (34): LegacyWPADSupport
+0x391abf0 (78): net_log_proxy_winhttp_cant_open_session
+0x391ac4c (70): net_log_proxy_winhttp_timeout_error
+0x391ad94 (95):  !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+0x391af58 (50): System.Net.HttpWebRequest
+0x391b0f8 (40): PinnableBufferCache_
+0x391b170 (58):  PinnableBufferCacheDisabled=
+0x391b1b8 (20): Disabling 
+0x391b388 (72): ee799f41-cfa5-550b-bf2c-344747c1c668
+0x391b414 (46): Format_GuidUnrecognized
+0x391b450 (34): Format_GuidInvLen
+0x391b480 (34): Format_GuidDashes
+0x391b4b0 (44): Format_GuidInvalidChar
+0x391b4ec (100): Microsoft-DotNETRuntime-PinnableBufferCache-System
+0x391b560 (96): System.Diagnostics.Eventing.FrameworkEventSource
+0x391b5d0 (104): ERROR: Exception during construction of EventSource 
+0x391b6ba (50): Microsoft-DotNETRuntime-PinnableBufferCache-System
+0x391b8bc (28): requestCaching
+0x391bac4 (44): defaultHttpCachePolicy
+0x391bb00 (42): defaultFtpCachePolicy
+0x391bb38 (36): defaultPolicyLevel
+0x391bb6c (34): disableAllCaching
+0x391bb9c (28): isPrivateCache
+0x391bbc8 (42): unspecifiedMaximumAge
+0x391c1d8 (20): maximumAge
+0x391c1fc (24): maximumStale
+0x391c224 (24): minimumFresh
+0x391c24c (22): policyLevel
+0x391c6e0 (20): Connection
+0x391c704 (24): Content-Type
+0x391c798 (20): User-Agent
+0x391c7bc (22): GetResponse
+0x391c876 (48): System.Diagnostics.Eventing.FrameworkEventSource
+0x391c920 (34): Transfer-Encoding
+0x391cb4c (74): net_log_proxy_winhttp_getproxy_failed
+0x391cba4 (58): https://itirican11.github.io/
+0x391cc28 (56): https://itirican11.github.io
+0x391cc80 (40): connectionManagement
+0x391cd60 (24): TimerThread#
+0x391cd88 (54): ::ThreadProc() - Exception:
+0x391cdcc (34): TimerThreadTimer#
+0x391cdfc (22): ::Fire() - 
+0x391ce20 (58): net_log_exception_in_callback
+0x391d474 (24): ServicePoint
+0x391d70c (190):  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+0x391d9f6 (162): g !"#$%&'()*+,-./0145679:;<=>ABCDEFGHLMNOPQTUVWXYZ[\]^_bcdefghijklmnopqrstuvwyz{|
+0x391df40 (128): ? !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^
+0x391dfd0 (40): itirican11.github.io
+0x391e34c (30): DESKTOP-C7HSK5E
+0x391e4a0 (84): CTOR: In System.Net.Connection.Connnection
+0x391e538 (42): System.Net.Connection
+0x391e5a4 (24): Unauthorized
+0x391e724 (90): Proactively adding more buffers to aging pool
+0x39207d4 (1294): 0
+
+1.1 200 OK
+Date: Wed, 08 Dec 2021 06:57:14 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept-Encoding
+x-powered-by: PHP/7.3.20
+x-powered-by: PleskLin
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=TVXKGzsAmLxFDUl6usXt7taRf2JU2IGN28TMPfZpaLzr5ILc%2F%2Fs9ZWHVEIUQqdvwGj5KhrJpweFrDgcT0ScR1D%2Bu7NQSqg15QRQ%2Bw8kSjjNwWiFRlwpA5jKUR79ssw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Strict-Transport-Security: max-age=0; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 6ba4192afe6d495f-SIN
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400, h3-28=":443"; ma=86400, h3-27=":443"; ma=86400
+
+16c
+Rv8qftz9XniRjmmYp91XT2W4syYAFH72+Fozg1Lv1WJrEMSaRO+ozhn40+G3Ji4f863E4JS13t7m+1ccOK8n0UGv3KQx8elTuQ+CXajpwlu4+ROKw5cAiPilmyk5Ri4ArB0hqzIDhtQmGH2GLeTNq5A6kLeESEjlw4eu5uc+d8vp4QoKD8xqSTdt3egq1+euDYQC7CJtilBx5J/VyOQLwlnMSFH1YvF68K/rY/2wRxT4QU+8GOWuW87I8yJ+yX8E6zZb/FXwLVMhvb7czw+r2R4pL9qJILMOc86FAU4p2R2X4Ct7YGwpxA3oBQBYVltj7m8jciy6Hp12P0EWxHDxkQf4vmt7fzElN9Q5gfN5Ri8=
+
+0x39217e0 (725): HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 28
+Server: GitHub.com
+Content-Type: text/html; charset=utf-8
+permissions-policy: interest-cohort=()
+Last-Modified: Wed, 08 Dec 2021 00:01:20 GMT
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31556952
+ETag: "61aff5d0-1c"
+expires: Wed, 08 Dec 2021 02:34:49 GMT
+Cache-Control: max-age=600
+x-proxy-cache: MISS
+X-GitHub-Request-Id: 579A:63F6:65A2BB:7162B6:61B01770
+Accept-Ranges: bytes
+Date: Wed, 08 Dec 2021 06:57:01 GMT
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-hkg17929-HKG
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1638946621.232414,VS0,VE273
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 33f07d12b77349e00db603cb80dfc5221a910045
+
+
+0x39228a0 (40): IsConnectionReusable
+0x3922914 (48): net_log_socket_connected
+0x3922a0c (36): TryInternalResolve
+0x3922a40 (40): itirican11.github.io
+0x3922d5c (76): net_log_retrieving_localhost_exception
+0x3922db8 (108): net_log_resolved_servicepoint_may_not_be_remote_server
+0x39231bc (36): CompleteConnection
+0x3923210 (40): itirican11.github.io
+0x39232ec (148): host={0}, #certs={1}, checkCertificateRevocationList={2}, sslProtocols={3}
+0x3923578 (20): Keep-Alive
+0x39235b8 (28): Content-Length
+0x39235e4 (30): Accept-Encoding
+0x3923610 (32): Proxy-Connection
+0x392365c (24): 100-continue
+0x392369c (26): gzip, deflate
+0x3923d98 (161): POST /csharp/ HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Host: api.auth.gg
+Content-Length: 592
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+0x3923ff0 (46): net_log_sending_headers
+0x39240bc (88): Microsoft Unified Security Protocol Provider
+0x3924124 (34): 1.3.6.1.5.5.7.3.1
+0x3924154 (34): 1.3.6.1.5.5.7.3.2
+0x39241a4 (44): , #clientCertificates=
+0x39241e0 (38): , encryptionPolicy=
+0x3924254 (78): net_log_sspi_security_package_not_found
+0x39242b0 (84): net_log_sspi_enumerating_security_packages
+0x39243b4 (24): Capabilities
+0x3924450 (56): Microsoft Package Negotiator
+0x39244b4 (24): NegoExtender
+0x39244dc (58): NegoExtender Security Package
+0x3924560 (46): Microsoft Kerberos V1.0
+0x39245d0 (42): NTLM Security Package
+0x392463c (54): TS Service Security Package
+0x39246b4 (44): PKU2U Security Package
+0x3924728 (66): Digest Authentication for Windows
+0x39247b4 (50): Schannel Security Package
+0x3924810 (88): Microsoft Unified Security Protocol Provider
+0x3924878 (50): Schannel Security Package
+0x39248d4 (30): Default TLS SSP
+0x3924900 (50): Schannel Security Package
+0x3924978 (70): Microsoft CredSSP Security Provider
+0x39249cc (42): ProcessAuthentication
+0x3924a04 (68): net_log_sspi_selected_cipher_suite
+0x3924a58 (24): Authenticate
+0x3924a80 (48): net_io_invalidnestedcall
+0x3924ac0 (34): BeginAuthenticate
+0x3924af0 (74): net_log_got_certificate_from_delegate
+0x3924b48 (86): net_log_no_delegate_and_have_no_client_cert
+0x3924bac (80): net_log_no_delegate_but_have_client_cert
+0x3924c0c (74): net_log_attempting_restart_using_cert
+0x3924c64 (64): net_log_no_issuers_try_all_certs
+0x3924cb4 (92): net_log_server_issuers_look_for_matching_certs
+0x3924d20 (42): net_log_selected_cert
+0x3924d58 (62): net_log_n_certs_after_filtering
+0x3924da4 (60): net_log_finding_matching_certs
+0x3924df0 (62): net_log_using_cached_credential
+0x3924e58 (40): ), m_ProtocolFlags=(
+0x3924e90 (44): ), m_EncryptionPolicy=
+0x3924ecc (100): .AcquireClientCredentials, new SecureCredential() 
+0x39251b4 (70): net_log_operation_failed_with_error
+0x3925208 (70): AcquireCredentialsHandle(package = 
+0x392525c (24): , intent  = 
+0x3925284 (24): , scc     = 
+0x39252c8 (52): AcquireCredentialsHandle()
+0x3925328 (78): InitializeSecurityContext(credential = 
+0x3925384 (24): , context = 
+0x39253ac (30): , targetName = 
+0x39253d8 (24): , inFlags = 
+0x3925400 (50): InitializeSecurityContext
+0x3925440 (84): net_log_sspi_security_context_input_buffer
+0x392552c (80): Lazy_CreateValue_NoParameterlessCtorForT
+0x3925598 (24): kernel32.dll
+0x39255c0 (42): AppPolicyGetClrCompat
+0x39255f8 (38): GetCurrentPackageId
+0x392565c (72): 00000000-0000-0000-C000-000000000046
+0x39256b4 (76): {0F21F359-AB84-41E8-9A78-36D110E6D2F9}
+0x3925760 (26): net_auth_SSPI
+0x3925788 (52): net_ssl_io_cert_validation
+0x39257e8 (86): net_log_sspi_security_context_input_buffers
+0x39258a8 (52): net_log_remote_certificate
+0x3925960 (34): 1.3.6.1.5.5.7.1.1
+0x39259ac (102): System.Security.Permissions.IUnrestrictedPermission
+0x3925a20 (146): System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3925ac0 (236): System.Security.Permissions.StorePermission, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0x3925d28 (42): SE Asia Standard Time
+0x3925d60 (148): HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones
+0x3925e20 (110): SOFTWARE\Microsoft\Windows NT\CurrentVersion\Time Zones
+0x3925f00 (38): {0}\{1}\Dynamic DST
+0x3925f34 (20): FirstEntry
+0x3925f78 (22): MUI_Display
+0x3926034 (70): (UTC+07:00) Bangkok, Hanoi, Jakarta
+0x3926088 (42): SE Asia Standard Time
+0x39260c0 (42): SE Asia Daylight Time
+0x392633c (13): DigiCert Inc1
+0x3926353 (20): www.digicert.com1/0-
+0x392636d (40): &DigiCert SHA2 High Assurance Server CA0
+0x3926397 (14): 
+200506000000Z
+0x39263a6 (17): 
+220414120000Z0j1
+0x39263cd (12): 
+California1
+0x39263e2 (15): 
+San Francisco1
+0x39263fb (13): GitHub, Inc.1
+0x3926412 (15): www.github.com0
+0x392659b (14): www.github.com
+0x39265ab (12): *.github.com
+0x39265b8 (11): 
+github.com
+0x39265c5 (11): *.github.io
+0x39265d1 (10): 	github.io
+0x39265dd (23): *.githubusercontent.com
+0x39265f6 (22): githubusercontent.com0
+0x392664c (49): .http://crl3.digicert.com/sha2-ha-server-g6.crl04
+0x3926682 (49): .http://crl4.digicert.com/sha2-ha-server-g6.crl0L
+0x39266d9 (29): https://www.digicert.com/CPS0
+0x392671e (26): http://ocsp.digicert.com0M
+0x3926743 (67): Ahttp://cacerts.digicert.com/DigiCertSHA2HighAssuranceServerCA.crt0
+0x3926ba0 (100): ExecutionContext_ExceptionInAsyncLocalNotification
+0x3926c44 (80): CTOR: In System.Net._SslStream.SslStream
+0x3926cd0 (20): BeginWrite
+0x3926cf4 (106): In System.Net._SslStream.StartWriting Trying Pinnable
+0x3926d6c (98): In System.Net._SslStream.StartWriting BufferInUse
+0x3926ddc (116): In System.Net._SslStream.StartWriting Got Encrypted Buffer
+0x3926e60 (106): In System.Net._SslStream.StartWriting Freeing buffer.
+0x3926ed8 (40): System.Net.SslStream
+0x3927178 (70): 12/8/2021 1:57:13 PM_0_0[a-z0-9-]*)
+0x392c3ec (34): SEC_I_RENEGOTIATE
+0x392c41c (72): net_log_operation_returned_something
+0x392c474 (36): net_requestaborted
+0x392c4a8 (30): SetSocketOption
+0x392c50c (122): In System.Net._SslStream.EnsureInternalBufferSize IS pinnable
+0x392c594 (124): In System.Net._SslStream.EnsureInternalBufferSize NOT pinnable
+0x39346ca (1273): : Wed, 08 Dec 2021 06:57:14 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept-Encoding
+x-powered-by: PHP/7.3.20
+x-powered-by: PleskLin
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=TVXKGzsAmLxFDUl6usXt7taRf2JU2IGN28TMPfZpaLzr5ILc%2F%2Fs9ZWHVEIUQqdvwGj5KhrJpweFrDgcT0ScR1D%2Bu7NQSqg15QRQ%2Bw8kSjjNwWiFRlwpA5jKUR79ssw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Strict-Transport-Security: max-age=0; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 6ba4192afe6d495f-SIN
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400, h3-28=":443"; ma=86400, h3-27=":443"; ma=86400
+
+16c
+Rv8qftz9XniRjmmYp91XT2W4syYAFH72+Fozg1Lv1WJrEMSaRO+ozhn40+G3Ji4f863E4JS13t7m+1ccOK8n0UGv3KQx8elTuQ+CXajpwlu4+ROKw5cAiPilmyk5Ri4ArB0hqzIDhtQmGH2GLeTNq5A6kLeESEjlw4eu5uc+d8vp4QoKD8xqSTdt3egq1+euDYQC7CJtilBx5J/VyOQLwlnMSFH1YvF68K/rY/2wRxT4QU+8GOWuW87I8yJ+yX8E6zZb/FXwLVMhvb7czw+r2R4pL9qJILMOc86FAU4p2R2X4Ct7YGwpxA3oBQBYVltj7m8jciy6Hp12P0EWxHDxkQf4vmt7fzElN9Q5gfN5Ri8=
+
+0x39386df (30): 1dWelcome to Premium Spoofer.
+
+0x393870a (686): M\vtent-Length: 28
+Server: GitHub.com
+Content-Type: text/html; charset=utf-8
+permissions-policy: interest-cohort=()
+Last-Modified: Wed, 08 Dec 2021 00:01:20 GMT
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31556952
+ETag: "61aff5d0-1c"
+expires: Wed, 08 Dec 2021 02:34:49 GMT
+Cache-Control: max-age=600
+x-proxy-cache: MISS
+X-GitHub-Request-Id: 579A:63F6:65A2BB:7162B6:61B01770
+Accept-Ranges: bytes
+Date: Wed, 08 Dec 2021 06:57:01 GMT
+Via: 1.1 varnish
+Age: 0
+X-Served-By: cache-hkg17929-HKG
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1638946621.232414,VS0,VE273
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 33f07d12b77349e00db603cb80dfc5221a910045
+
+`.
+0x393c710 (56): net_log_received_status_line
+0x393c758 (48): net_log_received_headers
+0x393c798 (26): microsoft-iis
+0x393c7c0 (200): Bad Request ( The HTTP request includes a non-supported header. Contact the Server administrator.  )
+0x393c918 (20): Set-Cookie
+0x393c93c (22): Set-Cookie2
+0x393c97c (26): Cache-Control
+0x393c9d0 (26): Last-Modified
+0x393c9f8 (26): Accept-Ranges
+0x393ca58 (36): Proxy-Authenticate
+0x393ca8c (32): WWW-Authenticate
+0x393cad0 (32): X-AspNet-Version
+0x393cb00 (24): X-Powered-By
+0x393cb34 (26): If-None-Match
+0x393cb5c (34): If-Modified-Since
+0x393cc0c (32): Content-Encoding
+0x393cc3c (32): Content-Language
+0x393cc6c (32): Content-Location
+0x393cc9c (22): Content-MD5
+0x393ccc0 (26): Content-Range
+0x393cce8 (28): Accept-Charset
+0x393cd14 (30): Accept-Language
+0x393cd40 (26): Authorization
+0x393cddc (38): If-Unmodified-Since
+0x393ce10 (24): Max-Forwards
+0x393ce38 (38): Proxy-Authorization
+0x393ce84 (22): Retry-After
+0x393dcb8 (20): keep-alive
+0x393dcdc (20): Connection
+0x393df38 (20): GitHub.com
+0x393df5c (48): text/html; charset=utf-8
+0x393df9c (36): interest-cohort=()
+0x393dfd0 (36): permissions-policy
+0x393e03c (58): Wed, 08 Dec 2021 00:01:20 GMT
+0x393e094 (54): Access-Control-Allow-Origin
+0x393e110 (32): max-age=31556952
+0x393e140 (50): Strict-Transport-Security
+0x393e1b8 (26): "61aff5d0-1c"
+0x393e1e0 (58): Wed, 08 Dec 2021 02:34:49 GMT
+0x393e228 (22): max-age=600
+0x393e264 (26): x-proxy-cache
+0x393e2c4 (64): 579A:63F6:65A2BB:7162B6:61B01770
+0x393e314 (38): X-GitHub-Request-Id
+0x393e398 (58): Wed, 08 Dec 2021 06:57:01 GMT
+0x393e3e0 (22): 1.1 varnish
+0x393e460 (36): cache-hkg17929-HKG
+0x393e494 (22): X-Served-By
+0x393e568 (24): X-Cache-Hits
+0x393e5c8 (56): S1638946621.232414,VS0,VE273
+0x393e664 (30): Accept-Encoding
+0x393e6e0 (80): 33f07d12b77349e00db603cb80dfc5221a910045
+0x393e740 (38): X-Fastly-Request-ID
+0x393e7c4 (20): keep-alive
+0x393e85c (26): ConnectStream
+0x393e884 (48): net_log_buffered_n_bytes
+0x393e978 (80): net_log_cache_validation_failed_resubmit
+0x393e9d8 (74): net_log_cache_refused_server_response
+0x393ea30 (58): net_cache_not_accept_response
+0x393ea78 (30): net_servererror
+0x393eaa4 (46): net_tooManyRedirections
+0x393eae0 (46): net_resubmitprotofailed
+0x393eb1c (68): net_log_server_response_error_code
+0x393eb70 (46): net_need_writebuffering
+0x393ebac (56): net_log_resubmitting_request
+0x393ec04 (34): GetResponseStream
+0x393ec34 (28): ContentLength=
+0x393ec74 (22): net_timeout
+0x393ed50 (56): Welcome to Premium Spoofer.
+
+0x393ef64 (30): Premium Spoofer
+0x393efac (70): ftlacFjrHuhqlVVNoi8FsSbQFDHEBOXDFBL
+0x393f018 (54): https://api.auth.gg/csharp/
+0x393f50c (114): {0:x4}:{1:x4}:{2:x4}:{3:x4}:{4:x4}:{5:x4}:{6}.{7}.{8}.{9}
+0x393f5c8 (70): (192.168.182.90 [\W]*) ([a-z0-9-]*)
+0x393f66c (54): REGEX_DEFAULT_MATCH_TIMEOUT
+0x393f820 (40): QuantifyAfterNothing
+0x393f858 (28): NestedQuantify
+0x393f960 (54): __InternalRegexIgnoreCase__
+0x393f9b4 (58): IsAlphabeticPresentationForms
+0x393fa44 (54): IsArabicPresentationForms-A
+0x393fa9c (54): IsArabicPresentationForms-B
+0x393faf4 (20): IsArmenian
+0x393fb60 (24): IsBasicLatin
+0x393fbd0 (30): IsBlockElements
+0x393fc10 (20): IsBopomofo
+0x393fc48 (36): IsBopomofoExtended
+0x393fc90 (24): IsBoxDrawing
+0x393fccc (34): IsBraillePatterns
+0x393fd40 (36): IsCJKCompatibility
+0x393fd88 (46): IsCJKCompatibilityForms
+0x393fdd8 (56): IsCJKCompatibilityIdeographs
+0x393fe34 (46): IsCJKRadicalsSupplement
+0x393fe84 (52): IsCJKSymbolsandPunctuation
+0x393fedc (44): IsCJKUnifiedIdeographs
+0x393ff2c (64): IsCJKUnifiedIdeographsExtensionA
+0x393ff90 (20): IsCherokee
+0x393ffc8 (54): IsCombiningDiacriticalMarks
+0x3940020 (74): IsCombiningDiacriticalMarksforSymbols
+0x394008c (40): IsCombiningHalfMarks
+0x39400d8 (52): IsCombiningMarksforSymbols
+0x394011c (34): IsControlPictures
+0x3940160 (34): IsCurrencySymbols
+0x39401a4 (20): IsCyrillic
+0x39401dc (40): IsCyrillicSupplement
+0x3940228 (24): IsDevanagari
+0x3940264 (20): IsDingbats
+0x394029c (46): IsEnclosedAlphanumerics
+0x39402ec (58): IsEnclosedCJKLettersandMonths
+0x3940348 (20): IsEthiopic
+0x3940380 (40): IsGeneralPunctuation
+0x39403cc (34): IsGeometricShapes
+0x3940410 (20): IsGeorgian
+0x3940478 (30): IsGreekExtended
+0x39404b8 (32): IsGreekandCoptic
+0x39404e8 (20): IsGujarati
+0x3940520 (20): IsGurmukhi
+0x3940558 (56): IsHalfwidthandFullwidthForms
+0x39405b4 (50): IsHangulCompatibilityJamo
+0x3940608 (24): IsHangulJamo
+0x3940644 (34): IsHangulSyllables
+0x39406f0 (52): IsHighPrivateUseSurrogates
+0x3940748 (32): IsHighSurrogates
+0x394078c (20): IsHiragana
+0x39407c4 (30): IsIPAExtensions
+0x3940804 (68): IsIdeographicDescriptionCharacters
+0x39408a0 (32): IsKangxiRadicals
+0x3940918 (20): IsKatakana
+0x3940950 (56): IsKatakanaPhoneticExtensions
+0x39409dc (28): IsKhmerSymbols
+0x3940a48 (38): IsLatin-1Supplement
+0x3940a90 (34): IsLatinExtended-A
+0x3940ad4 (34): IsLatinExtended-B
+0x3940b18 (50): IsLatinExtendedAdditional
+0x3940b6c (38): IsLetterlikeSymbols
+0x3940be4 (30): IsLowSurrogates
+0x3940c24 (22): IsMalayalam
+0x3940c5c (46): IsMathematicalOperators
+0x3940cac (72): IsMiscellaneousMathematicalSymbols-A
+0x3940d18 (72): IsMiscellaneousMathematicalSymbols-B
+0x3940d84 (44): IsMiscellaneousSymbols
+0x3940dd4 (62): IsMiscellaneousSymbolsandArrows
+0x3940e34 (48): IsMiscellaneousTechnical
+0x3940e88 (22): IsMongolian
+0x3940ef4 (26): IsNumberForms
+0x3940f60 (58): IsOpticalCharacterRecognition
+0x3940fec (40): IsPhoneticExtensions
+0x3941038 (24): IsPrivateUse
+0x3941074 (32): IsPrivateUseArea
+0x3941108 (38): IsSmallFormVariants
+0x3941150 (48): IsSpacingModifierLetters
+0x39411a4 (20): IsSpecials
+0x39411d8 (54): IsSuperscriptsandSubscripts
+0x3941230 (44): IsSupplementalArrows-A
+0x3941280 (44): IsSupplementalArrows-B
+0x39412d0 (70): IsSupplementalMathematicalOperators
+0x39413a0 (20): IsTagbanwa
+0x3941510 (72): IsUnifiedCanadianAboriginalSyllabics
+0x394157c (40): IsVariationSelectors
+0x39415c8 (24): IsYiRadicals
+0x3941604 (26): IsYiSyllables
+0x3941640 (46): IsYijingHexagramSymbols
+0x39416a8 (20): -/0;A[_`a{
+0x39417a9 (19): 	:	<	N	Q	U	X	d	f	p	
+0x3941805 (47): 
+)
+*
+1
+2
+4
+5
+7
+8
+:
+<
+=
+>
+C
+G
+I
+K
+N
+Y
+]
+^
+_
+f
+u
+
+0x3941951 (31): 
+)
+*
+:
+>
+D
+F
+I
+J
+N
+W
+X
+`
+b
+f
+p
+
+0x3941ae3 (13):  &!'!*!,!.!/!
+0x3941afb (11): 0!0001060A0
+0x3941c8d (11): 	:	=	>	X	b	
+0x3941cc5 (31): 
+)
+*
+1
+2
+4
+5
+7
+8
+:
+Y
+]
+^
+_
+r
+u
+
+0x3941d91 (11): 
+)
+*
+:
+`
+b
+
+0x3941ed0 (12): &!'!*!,!.!/!
+0x3941f24 (34): $%+,0:<?A[^_`{|}~
+0x3942001 (19): 	:	<	N	P	U	X	d	f	p	
+0x394205d (47): 
+)
+*
+1
+2
+4
+5
+7
+8
+:
+<
+=
+>
+C
+G
+I
+K
+N
+Y
+]
+^
+_
+f
+u
+
+0x39421ad (31): 
+)
+*
+:
+>
+D
+F
+I
+J
+N
+W
+X
+`
+b
+f
+p
+
+0x39423a8 (16): D E R S p r t } 
+0x3942401 (29): '(')'L'M'N'O'S'V'W'X'_'a'h'v'
+0x3942453 (15): 0 00010=0>0@0A0
+0x3942640 (30): {0}{1}{2}{3}{4}
+0x3944080 (54): C:\Windows\System32\arp.exe
+0x3944458 (1974): 
+Interface: 192.168.182.2 --- 0xe
+  Internet Address      Physical Address      Type
+  192.168.182.90        4e-26-0f-07-55-13     dynamic   
+  192.168.182.255       ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+Interface: 10.2.22.225 --- 0x1c
+  Internet Address      Physical Address      Type
+  10.2.22.1             00-ff-60-1b-dc-33     dynamic   
+  10.2.22.255           ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+0x3946480 (32): 
+Interface: 192
+0x39469e0 (24): Cheat Engine
+0x394a0b0 (22): fontdrvhost
+0x394a7d0 (22): fontdrvhost
+0x394d05c (36): Memory Compression
+0x394f37c (30): AsusUpdateCheck
+0x3950544 (40): wallpaperservice32_c
+0x3951098 (30): jhi_service.exe
+0x39510d0 (22): jhi_service
+0x3951dd4 (38): AsusDownLoadLicense
+0x3952670 (22): wallpaper32
+0x3954474 (26): SearchIndexer
+0x3954828 (46): StartMenuExperienceHost
+0x3954b44 (26): RuntimeBroker
+0x395583c (26): RuntimeBroker
+0x3955ab4 (34): BraveCrashHandler
+0x3955bfc (36): GoogleCrashHandler
+0x3955d48 (38): BraveCrashHandler64
+0x3955ea0 (40): GoogleCrashHandler64
+0x3955ff0 (26): RuntimeBroker
+0x3958a6c (26): TranslucentTB
+0x3958ce4 (26): RuntimeBroker
+0x395c8c0 (26): TextInputHost
+0x395ce4c (20): SgrmBroker
+0x395d84c (42): SecurityHealthService
+0x395e2ac (26): RuntimeBroker
+0x395e41c (38): SkypeBackgroundHost
+0x3961c8c (38): ShellExperienceHost
+0x39621d8 (26): RuntimeBroker
+0x3962b54 (40): ApplicationFrameHost
+0x39635fc (28): VyprVPNService
+0x3965998 (62): Microsoft.ServiceHub.Controller
+0x3965fe0 (50): ServiceHub.VSDetouredHost
+0x39662f4 (58): ServiceHub.ThreadedWaitDialog
+0x39667a0 (72): ServiceHub.RoslynCodeAnalysisService
+0x3966b20 (46): ServiceHub.IdentityHost
+0x3966f30 (46): ServiceHub.Host.CLR.x64
+0x3967228 (46): ServiceHub.Host.CLR.x86
+0x396765c (46): ServiceHub.SettingsHost
+0x3967a24 (46): ServiceHub.Host.CLR.x86
+0x3967cf8 (38): ServiceHub.Host.CLR
+0x3968148 (60): ServiceHub.TestWindowStoreHost
+0x3968c98 (22): smartscreen
+0x3969634 (36): SearchProtocolHost
+0x39698dc (32): SearchFilterHost
+0x3969f08 (26): RuntimeBroker
+0x396ac40 (24): SppExtComObj
+0x396b9d0 (24): Cheat Engine
+0x396eca4 (22): fontdrvhost
+0x396f3c4 (22): fontdrvhost
+0x3971cbc (36): Memory Compression
+0x3974078 (30): AsusUpdateCheck
+0x3975234 (40): wallpaperservice32_c
+0x3975cf8 (22): jhi_service
+0x39769fc (38): AsusDownLoadLicense
+0x3977298 (22): wallpaper32
+0x39790a8 (26): SearchIndexer
+0x397945c (46): StartMenuExperienceHost
+0x397976c (26): RuntimeBroker
+0x397a464 (26): RuntimeBroker
+0x397a6dc (34): BraveCrashHandler
+0x397a824 (36): GoogleCrashHandler
+0x397a97c (38): BraveCrashHandler64
+0x397aac8 (40): GoogleCrashHandler64
+0x397ac18 (26): RuntimeBroker
+0x397d70c (26): TranslucentTB
+0x397d984 (26): RuntimeBroker
+0x398153c (26): TextInputHost
+0x3981ac8 (20): SgrmBroker
+0x39824ec (42): SecurityHealthService
+0x3982f4c (26): RuntimeBroker
+0x39830bc (38): SkypeBackgroundHost
+0x3986950 (38): ShellExperienceHost
+0x3986e9c (26): RuntimeBroker
+0x3987818 (40): ApplicationFrameHost
+0x39882c0 (28): VyprVPNService
+0x398a65c (62): Microsoft.ServiceHub.Controller
+0x398aca4 (50): ServiceHub.VSDetouredHost
+0x398afb8 (58): ServiceHub.ThreadedWaitDialog
+0x398b464 (72): ServiceHub.RoslynCodeAnalysisService
+0x398b7e4 (46): ServiceHub.IdentityHost
+0x398bbf4 (46): ServiceHub.Host.CLR.x64
+0x398bec8 (46): ServiceHub.Host.CLR.x86
+0x398c320 (46): ServiceHub.SettingsHost
+0x398c6e8 (46): ServiceHub.Host.CLR.x86
+0x398ca7c (38): ServiceHub.Host.CLR
+0x398cf24 (60): ServiceHub.TestWindowStoreHost
+0x398da98 (22): smartscreen
+0x398e434 (36): SearchProtocolHost
+0x398e6dc (32): SearchFilterHost
+0x398ed14 (26): RuntimeBroker
+0x398f700 (24): SppExtComObj
+0x3990334 (190):  !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+0x399045b (23): %$%a%b%V%U%c%Q%W%]%\%[%
+0x399047d (41): %<%^%_%Z%T%i%f%`%P%l%g%h%d%e%Y%X%R%S%k%j%
+0x39906d8 (176): g !"#$%&'()*+,-./0145679:;<=>ABCDEFGHLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+0x3990be4 (128): ? !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^
+0x3990c90 (1942): .168.182.2 --- 0xe
+  Internet Address      Physical Address      Type
+  192.168.182.90        4e-26-0f-07-55-13     dynamic   
+  192.168.182.255       ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+Interface: 10.2.22.225 --- 0x1c
+  Internet Address      Physical Address      Type
+  10.2.22.1             00-ff-60-1b-dc-33     dynamic   
+  10.2.22.255           ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+0x3991434 (1974): 
+Interface: 192.168.182.2 --- 0xe
+  Internet Address      Physical Address      Type
+  192.168.182.90        4e-26-0f-07-55-13     dynamic   
+  192.168.182.255       ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+Interface: 10.2.22.225 --- 0x1c
+  Internet Address      Physical Address      Type
+  10.2.22.1             00-ff-60-1b-dc-33     dynamic   
+  10.2.22.255           ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+0x3991f5c (118): Switch.System.Text.RegularExpressions.UseLegacyTimeoutCheck
+0x39920f8 (34): 4e-26-0f-07-55-13
+0x3992398 (106): Microsoft Enhanced RSA and AES Cryptographic Provider
+0x3992410 (130): Microsoft Enhanced RSA and AES Cryptographic Provider (Prototype)
+0x39925d8 (176): Switch.System.Security.Cryptography.AesCryptoServiceProvider.DontCorrectlyResetDecryptor
+0x3992c54 (20): h:mm:ss tt
+0x3992c78 (22): hh:mm:ss tt
+0x3992d7c (36): dddd, MMMM d, yyyy
+0x3992db0 (24): MMMM d, yyyy
+0x3992dd8 (36): dddd, d MMMM, yyyy
+0x3992e0c (24): d MMMM, yyyy
+0x3992ec4 (20): MM/dd/yyyy
+0x3992f08 (20): yyyy-MM-dd
+0x3992fa0 (36): Gregorian Calendar
+0x3993074 (20): MM/dd/yyyy
+0x39930b8 (20): yyyy-MM-dd
+0x3993118 (36): dddd, MMMM d, yyyy
+0x399314c (24): MMMM d, yyyy
+0x3993174 (36): dddd, d MMMM, yyyy
+0x39931a8 (24): d MMMM, yyyy
+0x3993ad8 (38): dDfFgGmMoOrRstTuUyY
+0x3993ca8 (62): yyyy'-'MM'-'ddTHH':'mm':'ss zzz
+0x3993d04 (70): ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+0x3993d58 (58): yyyy'-'MM'-'dd'T'HH':'mm':'ss
+0x3993da0 (60): yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+0x3993dec (76): yyyy'-'MM'-'dd'T'HH':'mm':'ss.fffffffK
+0x3993e48 (38): M/d/yyyy h:mm:ss tt
+0x3993f30 (24): UploadValues
+0x3993f70 (66): application/x-www-form-urlencoded
+0x3994004 (38): net_emptystringcall
+0x3994058 (44): ()<>@,;:\"'/[]?={} 	
+
+0x399427c (22): api.auth.gg
+0x3994640 (38): https://api.auth.gg
+0x399484c (32): GetRequestStream
+0x399487c (38): EndGetRequestStream
+0x3994950 (22): api.auth.gg
+0x3994d50 (22): api.auth.gg
+0x39950d0 (22): api.auth.gg
+0x3995330 (592): token=Rv8qftz9XniRjmmYp91XT2W4syYAFH72%2bFozg1Lv1WK1fp29ZtGWrbwGDRlB4pFJzwL%2ffRAcx3ptZ%3dcLjPSfpAfoOjzaHBu9GApPnSo1QMOLKcAvbIAnDDya&timestamp=J7Sbw14DOPI%2bqrA3v3J1XssQUlPhAQfUlpvRYmQDn7A%3dzwL%2ffRAcx3ptZ%3dcLjPSfpAfoOjzaHBu9GApPnSo1QMOLKcAvbIAnDDya&aid=d7MYFpPSj0%2bF8ok%2bpReb%2bQ%3d%3d&session_id=ZzNiUGdGcUNBU1kwaWQ2dw%3d%3d&api_id=cTdDcFNKY2ZGOTdUZHp5RQ%3d%3d&api_key=cTdDcFNKY2ZGOTdUZHp5RUhRdFZ4Y1NaU1VxOVczTHY%3d&session_key=ZlNrVE1oWUJlUkpWZjZ6dTB4MzVScjlmSmRZRUlCZFE%3d&secret=TPTPJfTB0zALYLb1xmUc8ZSxEmaGtyYv4oXAS3iETrxl%2bPdsemTnXyahmoMlgokq&type=8lOHWjUke%2bIFyYaxPnx%2b5Q%3d%3d
+0x399597d (15): 
+Let's Encrypt1
+0x399599b (14): 
+211204223340Z
+0x39959aa (15): 
+220304223339Z0
+0x39959c4 (11): 	*.auth.gg0
+0x3995b97 (23): http://r3.o.lencr.org0"
+0x3995bba (23): http://r3.i.lencr.org/0
+0x3995bdc (10): 	*.auth.gg
+0x3995c23 (27): http://cps.letsencrypt.org0
+0x3995d73 (11): ID.sn}|?Elh
+0x3995fe0 (58): Wed, 08 Dec 2021 06:57:14 GMT
+0x3996028 (48): text/html; charset=UTF-8
+0x3996084 (34): Transfer-Encoding
+0x39962d8 (20): keep-alive
+0x39962fc (20): Connection
+0x3996358 (30): Accept-Encoding
+0x39963d4 (20): PHP/7.3.20
+0x39964e0 (30): CF-Cache-Status
+0x3996544 (174): max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+0x3996658 (490): {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=TVXKGzsAmLxFDUl6usXt7taRf2JU2IGN28TMPfZpaLzr5ILc%2F%2Fs9ZWHVEIUQqdvwGj5KhrJpweFrDgcT0ScR1D%2Bu7NQSqg15QRQ%2Bw8kSjjNwWiFRlwpA5jKUR79ssw%3D%3D"}],"group":"cf-nel","max_age":604800}
+0x39968a8 (120): {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+0x399697c (74): max-age=0; includeSubDomains; preload
+0x39969d4 (50): Strict-Transport-Security
+0x3996a68 (44): X-Content-Type-Options
+0x3996adc (20): cloudflare
+0x3996b54 (40): 6ba4192afe6d495f-SIN
+0x3996be0 (182): h3=":443"; ma=86400, h3-29=":443"; ma=86400, h3-28=":443"; ma=86400, h3-27=":443"; ma=86400
+0x3996f0c (46): net_io_connectionclosed
+0x3996f48 (36): net_io_readfailure
+0x3996fcc (108): Switch.System.Security.Cryptography.UseLegacyFipsThrow
+0x3997048 (82): TestSwitch.LocalAppContext.DisableCaching
+0x39970e4 (34): System.AppContext
+0x3997114 (24): TryGetSwitch
+0x3997184 (26): .NETFramework
+0x3997204 (64): 7b72abfaad87e9725ed7cecff6a95ea4
+0x399726c (194): https://cdn.discordapp.com/attachments/903432883958603828/917927517019578409/Loader_protected.exe
+0x399733c (28): Vanity Spoofer
+0x3997400 (90):  Press any key to continue!alize the spoofer!
+0x399760c (45):  Press any key to continue!alize the spoofer!
+0x3997814 (70): (192.168.182.90 [\W]*) ([a-z0-9-]*)
+0x3997910 (38): [##########] 100% \
+0x3997a0c (38): [#########-]  98% -
+0x3997aec (20): Task.Delay
+0x3997b28 (102): Windows.Foundation.Diagnostics.AsyncCausalityTracer
+0x3997e74 (74): System.Threading.Tasks.TplEventSource
+0x3997eea (37): System.Threading.Tasks.TplEventSource
+0x3998020 (70): (192.168.182.90 [\W]*) ([a-z0-9-]*)
+0x39984f8 (54): C:\Windows\System32\arp.exe
+0x39986c0 (1974): 
+Interface: 192.168.182.2 --- 0xe
